@@ -6385,3 +6385,47 @@ java.lang.NullPointerException: null
 [26Apr2025 22:24:09.991] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [26Apr2025 22:24:15.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 386.5, 62.0, -702.5]
 [26Apr2025 22:24:19.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 22:24:56.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was incinerated by a dragon
+[26Apr2025 22:24:58.199] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:24:58.199] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:25:13.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was incinerated by a dragon
+[26Apr2025 22:25:14.295] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:25:14.295] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:25:19.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 375.5, 61.0, -695.5]
+[26Apr2025 22:25:20.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 22:25:26.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Dragonslayer]
+[26Apr2025 22:26:00.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:26:01.662] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:26:01.662] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:27:16.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Battle Towers?]
+[26Apr2025 22:27:17.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:27:21.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:27:21.102] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:27:33.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Battle Towers?]
+[26Apr2025 22:27:36.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:27:38.202] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:27:38.203] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:28:02.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:28:03.300] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:28:03.300] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:28:16.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Drew the Not Very Nice
+[26Apr2025 22:28:21.857] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:28:21.857] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:28:30.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 22:28:38.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.burns.player
+[26Apr2025 22:28:39.778] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:28:39.778] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:30:03.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 22:30:41.073] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=419, y=88, z=-767}
+[26Apr2025 22:30:53.834] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=419, y=88, z=-767}
+[26Apr2025 22:31:51.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 22:33:21.835] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[26Apr2025 22:33:21.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[26Apr2025 22:33:22.179] [Thread-264/INFO] [FTB Utilities Backups/]: Backing up 464 files...
+[26Apr2025 22:33:22.181] [Thread-264/INFO] [FTB Utilities Backups/]: Compressing 464 files...
+[26Apr2025 22:33:27.208] [Thread-264/INFO] [FTB Utilities Backups/]: Done compressing in 00:05 seconds (89.8MB)!
+[26Apr2025 22:33:27.208] [Thread-264/INFO] [FTB Utilities Backups/]: Created /workspaces/papuv2/servidor_minecraft/backups/2025-04-26-22-33-22.zip from /workspaces/papuv2/servidor_minecraft/world
+[26Apr2025 22:33:27.210] [Thread-264/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:05! (89.8MB)
+[26Apr2025 22:33:43.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:34:47.536] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: Disconnected
+[26Apr2025 22:34:47.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game

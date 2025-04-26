@@ -27979,6 +27979,7 @@
       "minecraft:creeper": "2025-04-26 21:53:56 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
+      "minecraft:husk": "2025-04-26 22:30:34 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
       "minecraft:enderman": "2025-04-26 21:34:35 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
@@ -42981,6 +42982,12 @@
   "botania:recipes/botania/lens_bounce": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-26 22:21:55 +0000"
     },
     "done": true
   },

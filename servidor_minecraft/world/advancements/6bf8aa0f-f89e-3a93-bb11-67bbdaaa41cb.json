@@ -4097,6 +4097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
@@ -4679,6 +4685,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 22:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:53 +0000"
@@ -5186,6 +5198,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete_leaded_slab_from_concrete_leaded_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -8600,6 +8618,12 @@
   "minecraft:recipes/extendedslabs/vertical_orange_concrete_slab_to_orange_concrete_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "structure": "2025-04-26 22:27:16 +0000"
     },
     "done": true
   },
@@ -16931,6 +16955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/sextant": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:48 +0000"
@@ -23683,6 +23713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_purple_concrete_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -23710,6 +23746,12 @@
   "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -24787,6 +24829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.equipment/lava_eel_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:02 +0000"
@@ -25282,6 +25330,12 @@
   "tconstruct:recipes/tconstruct/general/common/mud_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -25846,6 +25900,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -27172,6 +27232,12 @@
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/casing_recycle": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -34028,6 +34094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/crafting_grid/pink_crafting_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:44 +0000"
@@ -37883,6 +37955,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/chiseled_crystal_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -42512,6 +42590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_slab_from_polished_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:02 +0000"
@@ -43863,6 +43947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/slab_recombine/white_pavement": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:52 +0000"
@@ -43992,6 +44082,12 @@
   "blue_skies:recipes/blue_skies_misc/pyrope_gem_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -44268,6 +44364,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/chiseled_rhinestone_brick_stairs_from_rhinestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-26 22:28:02 +0000"
     },
     "done": true
   },
@@ -46452,6 +46554,12 @@
   "tconstruct:recipes/tconstruct/general/common/slime/ender/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-26 22:20:50 +0000"
     },
     "done": true
   },
