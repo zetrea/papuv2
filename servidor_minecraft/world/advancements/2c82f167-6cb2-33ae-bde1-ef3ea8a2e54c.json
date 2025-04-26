@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:40:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/black_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:31 +0000"
@@ -5417,6 +5423,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-04-26 20:40:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
@@ -5762,6 +5774,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:16 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:40:28 +0000"
     },
     "done": true
   },
@@ -12269,6 +12287,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-26 20:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:34 +0000"
@@ -12908,6 +12932,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/utrem_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 20:40:38 +0000"
     },
     "done": true
   },
@@ -20435,6 +20465,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 20:40:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -22334,6 +22370,12 @@
   "botania:recipes/botania/yellow_shiny_flower": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:cave_spider": "2025-04-26 20:40:28 +0000"
     },
     "done": true
   },
@@ -27341,6 +27383,12 @@
     },
     "done": true
   },
+  "hats:hats/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:40:28 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.modules/modules/wyvern_auto_fire": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
@@ -27772,6 +27820,13 @@
       "has_the_recipe": "2025-04-26 20:34:14 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
+      "minecraft:zombie": "2025-04-26 20:48:37 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/blue_skies_everbright_blocks/cut_midnight_sandstone_slab": {
     "criteria": {
@@ -30821,6 +30876,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-26 20:42:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_lime_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:12 +0000"
@@ -33503,6 +33564,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:40:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:19 +0000"
@@ -35312,6 +35379,12 @@
   "projecte:recipes/projecte/conversions/dye_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-26 20:40:38 +0000"
     },
     "done": true
   },
@@ -37250,6 +37323,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_stairs_from_fancy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-04-26 20:48:53 +0000"
     },
     "done": true
   },
@@ -40127,6 +40206,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/poisonous_pie": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-26 20:48:37 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/nova_catalyst": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:13 +0000"
@@ -40823,6 +40908,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-26 20:40:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_stairs_from_fancy_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
@@ -41075,6 +41166,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-26 20:40:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
@@ -41108,6 +41205,12 @@
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:14 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-04-26 20:40:38 +0000"
     },
     "done": true
   },
@@ -47542,6 +47645,12 @@
   "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:19 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-04-26 20:40:38 +0000"
     },
     "done": true
   },

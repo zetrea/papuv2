@@ -5617,3 +5617,79 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 20:40:38.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [I Found It Underground]
 [26Apr2025 20:40:38.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Not Quite Common]
 [26Apr2025 20:40:38.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Diamonds!]
+[26Apr2025 20:41:33.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Cave Spider
+[26Apr2025 20:41:35.141] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:41:35.142] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 20:41:54.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Alex's Mobs]
+[26Apr2025 20:42:57.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja fell from a high place
+[26Apr2025 20:42:58.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:42:58.590] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 20:43:41.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [It Starts With One]
+[26Apr2025 20:43:45.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Trendsetter]
+[26Apr2025 20:44:25.108] [Netty Epoll Server IO #0/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 20:44:25.134] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 20:44:25.139] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 20:44:31.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@70e6b604
+[26Apr2025 20:44:32.445] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:39483] logged in with entity id 3168 at (-251.2862240868298, 82.57969854367613, 7.014261140482049)
+[26Apr2025 20:44:32.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[26Apr2025 20:44:32.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[26Apr2025 20:44:32.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[26Apr2025 20:44:32.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[26Apr2025 20:44:32.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[26Apr2025 20:44:32.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[26Apr2025 20:44:32.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[26Apr2025 20:44:32.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[26Apr2025 20:45:53.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Monster Hunter]
+[26Apr2025 20:46:38.412] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3942, l='ServerLevel[world]', x=102.50, y=46.00, z=152.38]
+[26Apr2025 20:46:38.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/3943, l='ServerLevel[world]', x=102.50, y=45.00, z=152.38]
+[26Apr2025 20:46:38.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3946, l='ServerLevel[world]', x=99.75, y=46.33, z=155.60]
+[26Apr2025 20:46:38.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3947, l='ServerLevel[world]', x=100.48, y=44.64, z=153.48]
+[26Apr2025 20:46:38.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/3948, l='ServerLevel[world]', x=99.30, y=48.74, z=157.61]
+[26Apr2025 20:46:38.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/3949, l='ServerLevel[world]', x=100.27, y=44.48, z=156.60]
+[26Apr2025 20:46:38.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Zinc Ore'/3950, l='ServerLevel[world]', x=102.26, y=45.74, z=156.33]
+[26Apr2025 20:46:38.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/3951, l='ServerLevel[world]', x=101.42, y=48.39, z=157.51]
+[26Apr2025 20:46:38.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Platinum Ore'/3952, l='ServerLevel[world]', x=98.51, y=45.50, z=153.36]
+[26Apr2025 20:46:38.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/3954, l='ServerLevel[world]', x=103.67, y=46.45, z=155.65]
+[26Apr2025 20:46:38.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3955, l='ServerLevel[world]', x=99.55, y=46.53, z=154.38]
+[26Apr2025 20:46:38.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/3956, l='ServerLevel[world]', x=103.30, y=48.34, z=154.28]
+[26Apr2025 20:46:39.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/4026, l='ServerLevel[world]', x=97.71, y=44.58, z=157.60]
+[26Apr2025 20:46:39.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Aluminum Ore'/4028, l='ServerLevel[world]', x=98.54, y=45.42, z=158.51]
+[26Apr2025 20:46:39.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/4029, l='ServerLevel[world]', x=102.40, y=44.40, z=157.40]
+[26Apr2025 20:46:39.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/4031, l='ServerLevel[world]', x=98.33, y=48.61, z=157.61]
+[26Apr2025 20:46:40.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Tha Ghost trinket
+[26Apr2025 20:46:53.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Apr2025 20:46:54.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: OP ZETREAA<--[HERE]
+[26Apr2025 20:47:01.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made zetreaa a server operator
+[26Apr2025 20:47:05.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Made 17igvnaciojaja a server operator]
+[26Apr2025 20:47:11.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Made AnbertitoKawaixX a server operator]
+[26Apr2025 20:47:17.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 20:47:20.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Getting an Upgrade]
+[26Apr2025 20:47:52.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Mad Piggy trinket
+[26Apr2025 20:48:15.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has unlocked Ice Shard trinket
+[26Apr2025 20:48:16.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:48:22.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Stone Age]
+[26Apr2025 20:48:39.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Getting an Upgrade]
+[26Apr2025 20:48:47.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Stone Age]
+[26Apr2025 20:48:53.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Suit Up]
+[26Apr2025 20:48:53.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has reached the goal [Titan-Forged]
+[26Apr2025 20:49:09.003] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@3bae690
+[26Apr2025 20:49:46.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Acquire Hardware]
+[26Apr2025 20:49:51.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Isn't It Iron Pick]
+[26Apr2025 20:49:54.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Diamonds!]
+[26Apr2025 20:50:14.752] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@34e14e07
+[26Apr2025 20:50:19.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Acquire Hardware]
+[26Apr2025 20:50:23.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 20:50:42.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Barrel Booty]
+[26Apr2025 20:50:51.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Isn't It Iron Pick]
+[26Apr2025 20:51:24.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Diamonds!]
+[26Apr2025 20:52:02.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Cover Me With Diamonds]
+[26Apr2025 20:52:09.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Suit Up]
+[26Apr2025 20:52:09.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Not Quite Common]
+[26Apr2025 20:52:09.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [I Found It Underground]
+[26Apr2025 20:52:09.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [A Stunning Fixation]
+[26Apr2025 20:52:27.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Monster Hunter]
+[26Apr2025 20:52:33.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Barrel Booty]
+[26Apr2025 20:52:43.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Amateur Archaeologist]
+[26Apr2025 20:52:43.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Cover Me With Diamonds]
+[26Apr2025 20:52:44.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement ['X' Marks the Spot]
+[26Apr2025 20:52:55.616] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@3bae690

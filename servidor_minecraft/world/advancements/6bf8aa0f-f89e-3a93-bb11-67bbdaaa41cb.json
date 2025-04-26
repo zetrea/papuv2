@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-26 20:45:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:46 +0000"
@@ -272,6 +278,12 @@
   "chaosawakens:recipes/chaosawakens.equipment/ultimate_leggings": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:53 +0000"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:43:41 +0000"
     },
     "done": true
   },
@@ -5297,6 +5309,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
+    "criteria": {
+      "has_item": "2025-04-26 20:42:13 +0000"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2/block_cutter/stairs/quartz_pillar_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -5744,6 +5762,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:43:41 +0000"
     },
     "done": true
   },
@@ -6974,6 +6998,12 @@
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-26 20:42:46 +0000"
     },
     "done": true
   },
@@ -13067,6 +13097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-26 20:48:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/speed_up_belt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:44 +0000"
@@ -13352,6 +13388,12 @@
   "extendedslabs:recipes/extendedslabs/hellbark_wood_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-26 20:48:22 +0000"
     },
     "done": true
   },
@@ -14168,6 +14210,12 @@
   "blue_skies:recipes/blue_skies_dungeon/poison_stonebrick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-26 20:41:54 +0000"
     },
     "done": true
   },
@@ -19073,6 +19121,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/scalinghealth/bandages": {
+    "criteria": {
+      "cobblestone": "2025-04-26 20:48:22 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_andesite_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
@@ -20387,6 +20441,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 20:48:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -20636,6 +20696,12 @@
   "cfm:recipes/cfm/stripped_crimson_desk": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:55 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/meat": {
+    "criteria": {
+      "has_raw_meats": "2025-04-26 20:43:42 +0000"
     },
     "done": true
   },
@@ -22286,6 +22352,12 @@
   "botania:recipes/botania/yellow_shiny_flower": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 20:45:53 +0000"
     },
     "done": true
   },
@@ -25487,6 +25559,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_redwood": {
+    "criteria": {
+      "has_plank": "2025-04-26 20:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -26078,6 +26156,12 @@
   "chaosawakens:recipes/chaosawakens.equipment/platinum_leggings": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-26 20:48:22 +0000"
     },
     "done": true
   },
@@ -27281,6 +27365,12 @@
     },
     "done": true
   },
+  "hats:hats/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:43:41 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.modules/modules/wyvern_auto_fire": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:57 +0000"
@@ -27712,6 +27802,12 @@
       "has_the_recipe": "2025-04-26 20:37:41 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 20:45:53 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/blue_skies_everbright_blocks/cut_midnight_sandstone_slab": {
     "criteria": {
@@ -30755,6 +30851,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-26 20:45:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_lime_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
@@ -31250,6 +31352,12 @@
   "minecraft:recipes/extendedslabs/lime_concrete_slab_to_vertical_lime_concrete_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-26 20:48:22 +0000"
     },
     "done": true
   },
@@ -33425,6 +33533,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 20:43:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:46 +0000"
@@ -33956,6 +34070,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_redwood": {
+    "criteria": {
+      "has_plank": "2025-04-26 20:48:08 +0000"
     },
     "done": true
   },
@@ -35387,6 +35507,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 20:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -35471,6 +35597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-26 20:48:22 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.blocks/crafting_core": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
@@ -35486,6 +35618,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/magenta_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_1": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 20:43:41 +0000"
     },
     "done": true
   },
@@ -36434,6 +36572,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:57 +0000"
+    },
+    "done": true
+  },
+  "mutantmore:mutantmore/root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 20:45:05 +0000"
     },
     "done": true
   },
@@ -40007,6 +40151,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/poisonous_pie": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-26 20:47:31 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/nova_catalyst": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
@@ -40928,6 +41078,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 20:41:54 +0000"
     },
     "done": true
   },
@@ -43031,6 +43187,12 @@
     },
     "done": true
   },
+  "hats:hats/wear_hat": {
+    "criteria": {
+      "code_trigger": "2025-04-26 20:43:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:50 +0000"
@@ -43604,6 +43766,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-26 20:42:46 +0000"
     },
     "done": true
   },
@@ -46099,7 +46267,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-04-26 20:38:02 +0000"
+      "minecraft:river": "2025-04-26 20:43:08 +0000",
+      "minecraft:forest": "2025-04-26 20:38:02 +0000",
+      "minecraft:plains": "2025-04-26 20:43:15 +0000"
     },
     "done": false
   },
@@ -46178,6 +46348,12 @@
   "biomesoplenty:recipes/building_blocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/seeds": {
+    "criteria": {
+      "has_seeds": "2025-04-26 20:45:47 +0000"
     },
     "done": true
   },
@@ -47033,6 +47209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-26 20:48:22 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:52 +0000"
@@ -47498,6 +47680,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_dripstone_stonecutting_lunar_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 20:45:05 +0000"
     },
     "done": true
   },
