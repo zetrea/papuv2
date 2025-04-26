@@ -12923,6 +12923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-26 22:19:01 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_green_glazed_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:20 +0000"
@@ -20780,6 +20786,12 @@
   "cfm:recipes/cfm/stripped_crimson_desk": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/meat": {
+    "criteria": {
+      "has_raw_meats": "2025-04-26 22:19:45 +0000"
     },
     "done": true
   },
@@ -30498,6 +30510,12 @@
   "biomesoplenty:recipes/decorations/umbran_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-26 22:19:01 +0000"
     },
     "done": true
   },
@@ -46523,6 +46541,7 @@
     "criteria": {
       "minecraft:forest": "2025-04-26 20:37:34 +0000",
       "minecraft:wooded_hills": "2025-04-26 21:53:51 +0000",
+      "minecraft:savanna": "2025-04-26 22:18:58 +0000",
       "minecraft:plains": "2025-04-26 21:02:51 +0000"
     },
     "done": false
@@ -47826,6 +47845,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_ladder": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-26 22:19:01 +0000"
     },
     "done": true
   },

@@ -12941,6 +12941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-26 22:20:12 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_green_glazed_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:47 +0000"
@@ -18416,6 +18422,12 @@
   "extradisks:recipes/extradisks/blocks/1024k_storage_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2025-04-26 22:17:39 +0000"
     },
     "done": true
   },
@@ -46583,11 +46595,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-04-26 22:19:33 +0000",
       "minecraft:beach": "2025-04-26 21:56:03 +0000",
+      "minecraft:dark_forest": "2025-04-26 22:14:00 +0000",
       "minecraft:river": "2025-04-26 20:43:08 +0000",
       "minecraft:forest": "2025-04-26 20:38:02 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 22:02:28 +0000",
       "minecraft:wooded_hills": "2025-04-26 21:53:03 +0000",
+      "minecraft:savanna": "2025-04-26 22:16:42 +0000",
       "minecraft:plains": "2025-04-26 20:43:15 +0000"
     },
     "done": false

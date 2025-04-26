@@ -6190,3 +6190,198 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 22:14:03.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Wildcat]
 [26Apr2025 22:14:03.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [First Steps]
 [26Apr2025 22:14:03.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Ice Bucket Challenge]
+[26Apr2025 22:15:17.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:15:22.287] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved wrongly!
+[26Apr2025 22:15:25.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX fell from a high place
+[26Apr2025 22:15:28.398] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:15:28.399] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:15:55.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 22:16:02.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Wait, you're not from Minecraft!]
+[26Apr2025 22:16:12.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has completed the challenge [Centennial]
+[26Apr2025 22:17:27.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 22:17:39.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Masquerade]
+[26Apr2025 22:18:29.578] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:18:29.578] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFreshwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[26Apr2025 22:18:37.578] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:18:37.578] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[26Apr2025 22:18:42.134] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/37133, l='ServerLevel[world]', x=760.36, y=58.32, z=-345.10]
+[26Apr2025 22:18:42.134] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/37133, l='ServerLevel[world]', x=760.36, y=58.32, z=-345.10]
+[26Apr2025 22:18:49.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa blew up
+[26Apr2025 22:18:49.412] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37187, l='ServerLevel[world]', x=724.45, y=82.00, z=-328.54]
+[26Apr2025 22:18:49.412] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/37187, l='ServerLevel[world]', x=724.45, y=82.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37229, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37229, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37230, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37230, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37231, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37231, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37232, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37232, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37233, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/37233, l='ServerLevel[world]', x=724.45, y=81.00, z=-328.54]
+[26Apr2025 22:18:49.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/37244, l='ServerLevel[world]', x=722.26, y=80.47, z=-328.49]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/37244, l='ServerLevel[world]', x=722.26, y=80.47, z=-328.49]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/37245, l='ServerLevel[world]', x=722.43, y=79.28, z=-329.55]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/37245, l='ServerLevel[world]', x=722.43, y=79.28, z=-329.55]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/37246, l='ServerLevel[world]', x=725.39, y=76.30, z=-329.57]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/37246, l='ServerLevel[world]', x=725.39, y=76.30, z=-329.57]
+[26Apr2025 22:18:49.415] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Stairs'/37247, l='ServerLevel[world]', x=727.51, y=81.68, z=-328.27]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Stairs'/37247, l='ServerLevel[world]', x=727.51, y=81.68, z=-328.27]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone Wall'/37248, l='ServerLevel[world]', x=726.34, y=78.31, z=-328.72]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone Wall'/37248, l='ServerLevel[world]', x=726.34, y=78.31, z=-328.72]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Bars'/37250, l='ServerLevel[world]', x=724.29, y=82.74, z=-331.69]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Bars'/37250, l='ServerLevel[world]', x=724.29, y=82.74, z=-331.69]
+[26Apr2025 22:18:49.416] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/37251, l='ServerLevel[world]', x=724.45, y=78.59, z=-328.28]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/37251, l='ServerLevel[world]', x=724.45, y=78.59, z=-328.28]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/37253, l='ServerLevel[world]', x=725.56, y=78.32, z=-330.46]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/37253, l='ServerLevel[world]', x=725.56, y=78.32, z=-330.46]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flower Pot'/37254, l='ServerLevel[world]', x=726.54, y=82.37, z=-327.74]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flower Pot'/37254, l='ServerLevel[world]', x=726.54, y=82.37, z=-327.74]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lily of the Valley'/37255, l='ServerLevel[world]', x=726.56, y=82.75, z=-327.46]
+[26Apr2025 22:18:49.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lily of the Valley'/37255, l='ServerLevel[world]', x=726.56, y=82.75, z=-327.46]
+[26Apr2025 22:18:49.418] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crafting Table'/37256, l='ServerLevel[world]', x=722.46, y=81.41, z=-327.72]
+[26Apr2025 22:18:49.418] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crafting Table'/37256, l='ServerLevel[world]', x=722.46, y=81.41, z=-327.72]
+[26Apr2025 22:18:50.451] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Apr2025 22:18:51.592] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@59433dab
+[26Apr2025 22:18:51.619] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:18:51.619] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:18:58.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 724.5, 81.0, -328.5]
+[26Apr2025 22:19:50.698] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=998, y=-3, z=-29} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.698] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=998, y=-3, z=-29}
+[26Apr2025 22:19:50.698] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1005, y=-3, z=-22} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.699] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1005, y=-3, z=-22}
+[26Apr2025 22:19:50.699] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1007, y=-3, z=-28} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.699] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1007, y=-3, z=-28}
+[26Apr2025 22:19:50.699] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=998, y=-3, z=-21} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.699] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=998, y=-3, z=-21}
+[26Apr2025 22:19:50.744] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1008, y=-3, z=-21} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.745] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1008, y=-3, z=-21}
+[26Apr2025 22:19:50.745] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1009, y=-3, z=-27} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:19:50.745] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1009, y=-3, z=-27}
+[26Apr2025 22:20:04.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:20:10.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 22:20:30.965] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 1.9864745205610461,0.0,10.00814649590859
+[26Apr2025 22:20:44.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:20:57.545] [Server thread/INFO] [immersiveengineering/]: Removing concrete feet
+[26Apr2025 22:21:02.099] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=539, y=70, z=-477} BlockPos{x=540, y=68, z=-477}
+[26Apr2025 22:21:20.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [One Man's Trash]
+[26Apr2025 22:21:24.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Captured!]
+[26Apr2025 22:21:28.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=430, y=0, z=-713} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:28.900] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=430, y=0, z=-713}
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=431, y=0, z=-715} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=431, y=0, z=-715}
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=417, y=0, z=-715} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=417, y=0, z=-715}
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=431, y=0, z=-707} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:28.901] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=431, y=0, z=-707}
+[26Apr2025 22:21:28.902] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=433, y=0, z=-709} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:28.902] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=433, y=0, z=-709}
+[26Apr2025 22:21:29.376] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=413, y=0, z=-713} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:29.377] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=413, y=0, z=-713}
+[26Apr2025 22:21:31.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:21:33.144] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:21:33.144] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:21:35.152] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=433, y=0, z=-723} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:21:35.152] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=433, y=0, z=-723}
+[26Apr2025 22:21:37.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:21:39.336] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:21:39.336] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:21:55.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [How'd You Get This?]
+[26Apr2025 22:21:59.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:22:01.152] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:22:01.153] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:22:09.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:22:10.748] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:22:10.748] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:22:12.461] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=203, y=0, z=-824} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:12.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=203, y=0, z=-824}
+[26Apr2025 22:22:12.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=201, y=0, z=-823} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:12.462] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=201, y=0, z=-823}
+[26Apr2025 22:22:12.463] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=220, y=0, z=-828} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:12.465] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=220, y=0, z=-828}
+[26Apr2025 22:22:12.465] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=210, y=0, z=-830} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:12.465] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=210, y=0, z=-830}
+[26Apr2025 22:22:13.297] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=201, y=0, z=-835} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:13.297] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=201, y=0, z=-835}
+[26Apr2025 22:22:13.297] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=201, y=0, z=-837} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:13.297] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=201, y=0, z=-837}
+[26Apr2025 22:22:25.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=270, y=0, z=-865} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:25.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=270, y=0, z=-865}
+[26Apr2025 22:22:25.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=270, y=0, z=-866} but found not block entity block Block{minecraft:bedrock} at location
+[26Apr2025 22:22:25.131] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=270, y=0, z=-866}
+[26Apr2025 22:22:38.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 22:22:45.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Fire Dragon
+[26Apr2025 22:22:47.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:22:47.562] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:22:54.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was turned into KFC by a dragon
+[26Apr2025 22:22:57.801] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:22:57.802] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:22:58.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was incinerated by Fire Dragon
+[26Apr2025 22:22:59.390] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:22:59.390] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:23:08.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 385.5, 62.0, -707.5]
+[26Apr2025 22:23:11.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Fire Dragon
+[26Apr2025 22:23:13.450] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:23:13.450] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:23:13.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:23:16.287] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:23:16.287] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:23:20.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 383.5, 62.0, -708.5]
+[26Apr2025 22:23:29.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Fire Dragon
+[26Apr2025 22:23:30.645] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Apr2025 22:23:31.710] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:23:31.710] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:23:37.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 379.5, 79.0, -703.5]
+[26Apr2025 22:23:54.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was turned into KFC by Fire Dragon
+[26Apr2025 22:23:55.992] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:23:55.992] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:24:07.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ettewolfqua the Light
+[26Apr2025 22:24:08.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was turned into KFC by Fire Dragon
+[26Apr2025 22:24:09.809] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:24:09.809] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:24:09.991] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:24:09.991] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:24:15.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 386.5, 62.0, -702.5]
+[26Apr2025 22:24:19.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]

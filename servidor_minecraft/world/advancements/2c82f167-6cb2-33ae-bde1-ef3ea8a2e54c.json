@@ -6485,6 +6485,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2025-04-26 22:13:05 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/polished_cinderstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:31 +0000"
@@ -11924,6 +11930,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:16 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/acc_unlocked_10": {
+    "criteria": {
+      "acc_unlocked": "2025-04-26 22:13:01 +0000"
     },
     "done": true
   },
@@ -22817,6 +22829,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 22:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/redstone_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:19 +0000"
@@ -25338,6 +25356,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/non_vanilla_hat": {
+    "criteria": {
+      "code_trigger": "2025-04-26 22:16:02 +0000"
     },
     "done": true
   },
@@ -27954,6 +27978,7 @@
       "minecraft:spider": "2025-04-26 21:04:30 +0000",
       "minecraft:creeper": "2025-04-26 21:53:56 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
+      "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
       "minecraft:enderman": "2025-04-26 21:34:35 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
@@ -28829,6 +28854,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_lead_to_ingot_lead": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:ocelot": {
+    "criteria": {
+      "crafting_table": "2025-04-26 22:14:03 +0000"
     },
     "done": true
   },
@@ -32805,6 +32836,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-26 22:14:03 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpowder_barrel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
@@ -34194,6 +34231,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:12 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-04-26 22:14:03 +0000"
     },
     "done": true
   },
@@ -39225,6 +39268,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-26 22:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:21 +0000"
@@ -43283,6 +43332,12 @@
     },
     "done": true
   },
+  "chaosawakens:root/super_carrot_vision": {
+    "criteria": {
+      "carrot": "2025-04-26 22:12:33 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -46555,9 +46610,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-26 22:11:48 +0000",
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
+      "minecraft:dark_forest": "2025-04-26 22:13:39 +0000",
       "minecraft:river": "2025-04-26 20:36:46 +0000",
       "minecraft:forest": "2025-04-26 20:34:35 +0000",
+      "minecraft:savanna": "2025-04-26 22:11:36 +0000",
       "minecraft:plains": "2025-04-26 20:36:51 +0000"
     },
     "done": false
