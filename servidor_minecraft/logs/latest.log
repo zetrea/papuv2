@@ -6429,3 +6429,105 @@ java.lang.NullPointerException: null
 [26Apr2025 22:33:43.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
 [26Apr2025 22:34:47.536] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: Disconnected
 [26Apr2025 22:34:47.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game
+[26Apr2025 22:35:28.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Ferrous Wroughtnaut
+[26Apr2025 22:35:30.436] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:35:30.436] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:35:48.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Ferrous Wroughtnaut
+[26Apr2025 22:35:49.548] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:35:49.549] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:36:17.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Ferrous Wroughtnaut
+[26Apr2025 22:36:19.195] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:36:19.195] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:37:26.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> ALR TWONM
+[26Apr2025 22:37:28.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> QIE [ASP
+[26Apr2025 22:37:29.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has completed the challenge [The Bigger They Are...]
+[26Apr2025 22:37:39.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 22:37:46.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> NA
+[26Apr2025 22:37:57.026] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa lost connection: Disconnected
+[26Apr2025 22:37:57.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa left the game
+[26Apr2025 22:38:01.142] [Netty Epoll Server IO #1/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 22:38:01.165] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 22:38:01.171] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 22:38:07.679] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@50ead900
+[26Apr2025 22:38:08.096] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.42.250.225:46897] logged in with entity id 54148 at (496.2230479711701, 56.24918707874468, -471.5206493243004)
+[26Apr2025 22:38:08.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[26Apr2025 22:38:08.098] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[26Apr2025 22:38:08.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[26Apr2025 22:38:08.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[26Apr2025 22:38:08.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[26Apr2025 22:38:08.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[26Apr2025 22:38:08.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[26Apr2025 22:38:08.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[26Apr2025 22:38:09.675] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AnbertitoKawaixX lost connection: Disconnected
+[26Apr2025 22:38:09.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX left the game
+[26Apr2025 22:38:58.450] [Worker-Main-7/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=202, y=61, z=-785}
+[26Apr2025 22:38:58.598] [Worker-Main-6/WARN] [net.minecraft.world.gen.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=202, y=61, z=-785}
+[26Apr2025 22:39:20.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Bottomless bag]
+[26Apr2025 22:40:19.282] [Netty Epoll Server IO #2/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 22:40:19.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 22:40:19.312] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 22:40:25.832] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@c1151c2
+[26Apr2025 22:40:26.249] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:60013] logged in with entity id 54935 at (492.30000001192093, 55.0, -477.69999998807907)
+[26Apr2025 22:40:26.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[26Apr2025 22:40:26.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[26Apr2025 22:40:26.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[26Apr2025 22:40:26.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[26Apr2025 22:40:26.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[26Apr2025 22:40:26.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[26Apr2025 22:40:26.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[26Apr2025 22:40:26.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[26Apr2025 22:41:09.501] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:41:33.897] [Netty Epoll Server IO #5/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 22:41:33.920] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 22:41:33.925] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 22:41:40.545] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7cb9b349
+[26Apr2025 22:41:41.013] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AnbertitoKawaixX[/127.53.184.72:47685] logged in with entity id 56014 at (492.5225943837157, 55.0, -475.42059843210023)
+[26Apr2025 22:41:41.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.019] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AnbertitoKawaixX
+[26Apr2025 22:41:41.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX joined the game
+[26Apr2025 22:42:23.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> gay
+[26Apr2025 22:42:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <17igvnaciojaja> ?
+[26Apr2025 22:42:39.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> bro
+[26Apr2025 22:42:40.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> nt
+[26Apr2025 22:42:45.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <17igvnaciojaja> q
+[26Apr2025 22:43:23.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Battle Towers?]
+[26Apr2025 22:43:49.899] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:43:49.916] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:43:49.916] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:43:51.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Iron Maiden]
+[26Apr2025 22:43:56.128] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=829, y=-7, z=156} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:56.128] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=829, y=-7, z=156}
+[26Apr2025 22:43:56.128] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=829, y=-7, z=148} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:56.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=829, y=-7, z=148}
+[26Apr2025 22:43:56.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=830, y=-2, z=156} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:56.129] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=830, y=-2, z=156}
+[26Apr2025 22:43:56.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:43:57.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Iron Maiden]
+[26Apr2025 22:43:57.314] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=838, y=-7, z=149} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=838, y=-7, z=149}
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=840, y=-3, z=151} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=840, y=-3, z=151}
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=836, y=-7, z=155} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=836, y=-7, z=155}
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=840, y=-7, z=150} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=840, y=-7, z=150}
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=839, y=-7, z=156} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=839, y=-7, z=156}
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=832, y=-2, z=153} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:43:57.315] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=832, y=-2, z=153}
+[26Apr2025 22:43:58.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:43:58.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Iron Maiden]
+[26Apr2025 22:43:59.293] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:43:59.294] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:44:27.281] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:44:27.283] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:44:27.284] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:44:43.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Debris Miner
+[26Apr2025 22:44:44.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:44:44.544] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:44:49.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]

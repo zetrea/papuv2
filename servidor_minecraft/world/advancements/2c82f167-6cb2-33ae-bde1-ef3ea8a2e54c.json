@@ -33959,6 +33959,12 @@
     },
     "done": true
   },
+  "relics:obtain/squire_bag": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:20 +0000"
