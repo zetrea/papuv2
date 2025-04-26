@@ -1403,6 +1403,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/bread": {
+    "criteria": {
+      "has_bread": "2025-04-26 21:07:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:49 +0000"
@@ -3440,6 +3446,12 @@
   "minecraft:recipes/extendedslabs/vertical_brown_wool_slab_to_brown_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 21:05:31 +0000"
     },
     "done": true
   },
@@ -11300,6 +11312,12 @@
   "extendedslabs:recipes/extendedslabs/vertical_brown_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:56 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/flowers": {
+    "criteria": {
+      "has_lilac": "2025-04-26 21:00:51 +0000"
     },
     "done": true
   },
@@ -23065,6 +23083,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-04-26 21:07:53 +0000",
       "golden_carrot": "2025-04-26 20:57:56 +0000"
     },
     "done": false
@@ -27857,6 +27876,7 @@
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
       "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
       "minecraft:enderman": "2025-04-26 20:58:56 +0000",
+      "minecraft:silverfish": "2025-04-26 21:09:38 +0000",
       "minecraft:zombie": "2025-04-26 20:45:53 +0000"
     },
     "done": false
@@ -29688,6 +29708,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:44 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/wheat": {
+    "criteria": {
+      "has_wheat": "2025-04-26 21:08:29 +0000"
     },
     "done": true
   },
@@ -31765,6 +31791,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-26 21:01:39 +0000"
     },
     "done": true
   },
@@ -34249,6 +34281,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-26 21:05:03 +0000"
     },
     "done": true
   },
@@ -39208,6 +39246,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/glass_bottle": {
+    "criteria": {
+      "has_bottle": "2025-04-26 21:09:57 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/botania/modified_gaia_pylon_with_alfsteel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -40657,6 +40701,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-26 21:03:05 +0000"
     },
     "done": true
   },
@@ -44179,6 +44229,12 @@
   "biomesoplenty:recipes/decorations/hellbark_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-26 21:01:47 +0000"
     },
     "done": true
   },

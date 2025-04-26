@@ -1403,6 +1403,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/bread": {
+    "criteria": {
+      "has_bread": "2025-04-26 21:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:22 +0000"
@@ -31749,6 +31755,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-26 21:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:19 +0000"
@@ -35661,6 +35673,12 @@
     },
     "done": true
   },
+  "hats:hats/hats_unlocked_1": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 21:08:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:25 +0000"
@@ -39545,6 +39563,7 @@
   },
   "chaosawakens:root/apple_hoarder": {
     "criteria": {
+      "apple": "2025-04-26 21:03:55 +0000",
       "golden_apple": "2025-04-26 20:54:03 +0000"
     },
     "done": false
@@ -41316,6 +41335,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/limestone_wall_from_limestone_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
+    "criteria": {
+      "has_item": "2025-04-26 21:02:29 +0000"
     },
     "done": true
   },
@@ -44175,6 +44200,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-26 21:03:25 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/purple_wireless_transmitter": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:19 +0000"
@@ -46343,7 +46374,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-04-26 20:37:34 +0000"
+      "minecraft:forest": "2025-04-26 20:37:34 +0000",
+      "minecraft:plains": "2025-04-26 21:02:51 +0000"
     },
     "done": false
   },
@@ -48114,6 +48146,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:30 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/apple": {
+    "criteria": {
+      "has_apple": "2025-04-26 21:03:55 +0000"
     },
     "done": true
   },

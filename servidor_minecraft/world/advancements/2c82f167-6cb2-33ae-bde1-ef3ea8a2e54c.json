@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-26 20:35:51 +0000"
@@ -16343,6 +16349,12 @@
     },
     "done": true
   },
+  "relics:obtain/fragrant_flower": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:05:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/cherry_wood_slab_to_vertical_cherry_wood_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:28 +0000"
@@ -27851,7 +27863,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
+      "minecraft:spider": "2025-04-26 21:04:30 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
+      "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000"
     },
     "done": false
@@ -31640,6 +31654,12 @@
   "projecte:recipes/projecte/philosophers_stone_alt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-04-26 21:08:58 +0000"
     },
     "done": true
   },
@@ -35678,6 +35698,12 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/magenta_pattern_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:35 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_1": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 21:04:30 +0000"
     },
     "done": true
   },
@@ -44069,6 +44095,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:04:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/purple_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
@@ -44192,6 +44224,12 @@
   "biomesoplenty:recipes/decorations/hellbark_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-26 21:02:29 +0000"
     },
     "done": true
   },
@@ -44426,6 +44464,12 @@
   "cfm:recipes/cfm/jungle_upgraded_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:12 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-04-26 21:08:58 +0000"
     },
     "done": true
   },
