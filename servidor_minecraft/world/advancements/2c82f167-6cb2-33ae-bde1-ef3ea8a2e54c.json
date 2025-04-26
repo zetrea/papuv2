@@ -1409,6 +1409,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/bread": {
+    "criteria": {
+      "has_bread": "2025-04-26 21:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:22 +0000"
@@ -2636,6 +2642,12 @@
   "cavesandcliffs:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:14 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/acc_unlocked_1": {
+    "criteria": {
+      "acc_unlocked": "2025-04-26 21:19:07 +0000"
     },
     "done": true
   },
@@ -11228,6 +11240,12 @@
   "botania:recipes/botania/mana_bomb": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spore_sack": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:12:48 +0000"
     },
     "done": true
   },
@@ -21431,6 +21449,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:17:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:10 +0000"
@@ -23080,6 +23104,7 @@
       "beef": "2025-04-26 20:55:21 +0000",
       "porkchop": "2025-04-26 20:57:09 +0000",
       "apple": "2025-04-26 20:38:53 +0000",
+      "golden_apple": "2025-04-26 21:10:43 +0000",
       "rotten_flesh": "2025-04-26 20:49:59 +0000"
     },
     "done": false
@@ -27862,8 +27887,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-26 21:15:50 +0000",
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
       "minecraft:spider": "2025-04-26 21:04:30 +0000",
+      "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000"
@@ -32230,6 +32257,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:14:15 +0000"
     },
     "done": true
   },
@@ -39229,6 +39262,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/glass_bottle": {
+    "criteria": {
+      "has_bottle": "2025-04-26 21:18:42 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/botania/modified_gaia_pylon_with_alfsteel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -39597,7 +39636,8 @@
   },
   "chaosawakens:root/apple_hoarder": {
     "criteria": {
-      "apple": "2025-04-26 20:38:40 +0000"
+      "apple": "2025-04-26 20:38:40 +0000",
+      "golden_apple": "2025-04-26 21:10:38 +0000"
     },
     "done": false
   },
@@ -47502,6 +47542,12 @@
   "blue_skies:recipes/blue_skies_dungeon/nature_stonebrick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:17:06 +0000"
     },
     "done": true
   },

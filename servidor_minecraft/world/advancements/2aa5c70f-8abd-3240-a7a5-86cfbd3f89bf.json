@@ -2639,6 +2639,12 @@
     },
     "done": true
   },
+  "hats:hats/acc_unlocked_1": {
+    "criteria": {
+      "acc_unlocked": "2025-04-26 21:18:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/granite_chair": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:14 +0000"
@@ -2993,6 +2999,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-04-26 21:19:14 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/blue_skies_dungeon/poison_stonebrick": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:14 +0000"
@@ -3134,6 +3146,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/cracked_limestone_bricks_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-26 21:10:48 +0000"
     },
     "done": true
   },
@@ -21407,6 +21425,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:17:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:10 +0000"
@@ -23066,7 +23090,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-04-26 20:53:09 +0000",
-      "golden_carrot": "2025-04-26 20:54:14 +0000"
+      "golden_carrot": "2025-04-26 20:54:14 +0000",
+      "carrot": "2025-04-26 21:15:42 +0000"
     },
     "done": false
   },
@@ -27836,7 +27861,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 21:15:05 +0000",
+      "minecraft:spider": "2025-04-26 21:20:04 +0000",
       "minecraft:creeper": "2025-04-26 20:56:41 +0000",
+      "minecraft:witch": "2025-04-26 21:17:27 +0000",
+      "minecraft:cave_spider": "2025-04-26 21:18:29 +0000",
       "minecraft:enderman": "2025-04-26 20:59:00 +0000",
       "minecraft:zombie": "2025-04-26 20:52:27 +0000"
     },
@@ -32196,6 +32225,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:15:57 +0000"
     },
     "done": true
   },
@@ -39069,6 +39104,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-26 21:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:21 +0000"
@@ -43116,7 +43157,8 @@
   },
   "chaosawakens:root/super_carrot_vision": {
     "criteria": {
-      "golden_carrot": "2025-04-26 20:54:03 +0000"
+      "golden_carrot": "2025-04-26 20:54:03 +0000",
+      "carrot": "2025-04-26 21:15:33 +0000"
     },
     "done": false
   },
@@ -43159,6 +43201,12 @@
   "minecraft:recipes/extendedslabs/oak_stairs_to_oak_corner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:31 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-26 21:11:57 +0000"
     },
     "done": true
   },
@@ -44065,6 +44113,12 @@
   "extendedslabs:recipes/extendedslabs/redwood_wood_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:12:09 +0000"
     },
     "done": true
   },
@@ -47462,6 +47516,12 @@
   "blue_skies:recipes/blue_skies_dungeon/nature_stonebrick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:17:13 +0000"
     },
     "done": true
   },

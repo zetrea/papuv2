@@ -2639,6 +2639,12 @@
     },
     "done": true
   },
+  "hats:hats/acc_unlocked_1": {
+    "criteria": {
+      "acc_unlocked": "2025-04-26 21:17:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/granite_chair": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -2980,6 +2986,12 @@
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-04-26 21:19:15 +0000"
+    },
+    "done": false
   },
   "chaosawakens:recipes/chaosawakens.equipment/tin_leggings": {
     "criteria": {
@@ -12314,6 +12326,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-26 21:16:17 +0000"
     },
     "done": true
   },
@@ -27873,6 +27891,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 20:55:19 +0000",
+      "minecraft:spider": "2025-04-26 21:15:58 +0000",
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
       "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
       "minecraft:enderman": "2025-04-26 20:58:56 +0000",
@@ -32241,6 +32260,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:19:15 +0000"
     },
     "done": true
   },
@@ -37938,6 +37963,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/bone": {
+    "criteria": {
+      "has_bone": "2025-04-26 21:17:28 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/advanced_bullet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
@@ -39618,6 +39649,12 @@
     },
     "done": true
   },
+  "chaosawakens:root/apple_hoarder": {
+    "criteria": {
+      "golden_apple": "2025-04-26 21:10:09 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:58 +0000"
@@ -40986,6 +41023,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-26 21:10:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_stairs_from_fancy_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:50 +0000"
@@ -41238,6 +41281,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-04-26 21:10:34 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
@@ -41271,6 +41320,12 @@
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-04-26 21:10:34 +0000"
     },
     "done": true
   },
@@ -44103,6 +44158,12 @@
   "extendedslabs:recipes/extendedslabs/redwood_wood_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:15:09 +0000"
     },
     "done": true
   },
