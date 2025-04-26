@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-26 20:45:07 +0000"
@@ -23039,6 +23045,12 @@
     },
     "done": true
   },
+  "relics:obtain/stellar_catalyst": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:38:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_stairs_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:41 +0000"
@@ -23108,6 +23120,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-26 21:07:53 +0000",
+      "golden_apple": "2025-04-26 21:32:00 +0000",
       "golden_carrot": "2025-04-26 20:57:56 +0000"
     },
     "done": false
@@ -24873,6 +24886,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spatial_sign": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:35:43 +0000"
     },
     "done": true
   },
@@ -27899,6 +27918,7 @@
       "minecraft:skeleton": "2025-04-26 20:55:19 +0000",
       "minecraft:spider": "2025-04-26 21:15:58 +0000",
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
+      "minecraft:husk": "2025-04-26 21:32:21 +0000",
       "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
       "minecraft:enderman": "2025-04-26 20:58:56 +0000",
       "minecraft:silverfish": "2025-04-26 21:09:38 +0000",
@@ -34268,6 +34288,12 @@
     },
     "done": true
   },
+  "relics:obtain/spider_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/vertical_yellow_wool_slab_to_yellow_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:36 +0000"
@@ -36998,6 +37024,12 @@
     },
     "done": true
   },
+  "hats:hats/hats_unlocked_10": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 21:33:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:50 +0000"
@@ -39161,6 +39193,12 @@
   "chaosawakens:recipes/chaosawakens.equipment/silver_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:56 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-26 21:34:00 +0000"
     },
     "done": true
   },
@@ -43216,7 +43254,8 @@
   },
   "chaosawakens:root/super_carrot_vision": {
     "criteria": {
-      "golden_carrot": "2025-04-26 20:52:43 +0000"
+      "golden_carrot": "2025-04-26 20:52:43 +0000",
+      "carrot": "2025-04-26 21:34:00 +0000"
     },
     "done": false
   },

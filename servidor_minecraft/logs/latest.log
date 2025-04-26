@@ -5974,3 +5974,92 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 21:32:23.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
 [26Apr2025 21:32:24.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Sweet Dreams]
 [26Apr2025 21:33:27.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Hat Collector]
+[26Apr2025 21:33:57.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Hat Collector]
+[26Apr2025 21:34:03.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Zombie
+[26Apr2025 21:34:06.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:34:06.516] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:34:11.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:34:11.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Trendsetter]
+[26Apr2025 21:34:20.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 21:34:48.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Miner's Pick trinket
+[26Apr2025 21:34:58.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [The Amazing Spider-Man]
+[26Apr2025 21:35:22.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Autophagy]
+[26Apr2025 21:35:24.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Penteconter]
+[26Apr2025 21:35:29.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Penteconter]
+[26Apr2025 21:35:43.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [/sethome]
+[26Apr2025 21:35:48.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Enderman
+[26Apr2025 21:35:50.585] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:35:50.585] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:36:03.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:36:12.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:36:44.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.burns.player
+[26Apr2025 21:36:45.339] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:36:45.339] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:36:48.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:37:19.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Zombie
+[26Apr2025 21:37:20.904] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:37:20.904] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:37:25.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 21:37:54.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 21:37:55.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:37:55.844] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:37:59.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:37:59.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 21:38:16.590] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=55, y=15, z=-21}
+[26Apr2025 21:38:19.140] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=55, y=15, z=-21}
+[26Apr2025 21:38:19.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was shot by Skeleton
+[26Apr2025 21:38:21.093] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:38:21.093] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:38:24.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:38:34.707] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=53, y=14, z=9}
+[26Apr2025 21:38:35.021] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=53, y=14, z=9}
+[26Apr2025 21:38:37.888] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=48, y=14, z=14}
+[26Apr2025 21:38:38.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [This is a rain of stars]
+[26Apr2025 21:38:48.335] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=48, y=14, z=14}
+[26Apr2025 21:38:59.456] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=48, y=14, z=14}
+[26Apr2025 21:38:59.937] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=53, y=14, z=9}
+[26Apr2025 21:39:14.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Hat Collector]
+[26Apr2025 21:39:15.417] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=62, y=14, z=24}
+[26Apr2025 21:39:26.267] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=57, y=14, z=23}
+[26Apr2025 21:39:30.356] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=55, y=15, z=-21}
+[26Apr2025 21:39:37.016] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=78, y=13, z=12}
+[26Apr2025 21:39:44.784] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=19, y=14, z=7}
+[26Apr2025 21:39:54.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 21:39:55.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:39:55.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:40:14.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 21:40:17.140] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=78, y=13, z=12}
+[26Apr2025 21:40:20.920] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=48, y=15, z=21}
+[26Apr2025 21:40:34.790] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=57, y=14, z=23}
+[26Apr2025 21:40:38.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Back to the future]
+[26Apr2025 21:40:39.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Darkwing duck]
+[26Apr2025 21:40:51.338] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=62, y=14, z=24}
+[26Apr2025 21:41:14.890] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=29, y=14, z=34}
+[26Apr2025 21:41:19.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Back to the future]
+[26Apr2025 21:41:23.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Wilden Stalker
+[26Apr2025 21:41:25.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:41:25.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:41:31.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 21:41:33.068] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:41:33.068] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:41:48.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was blown up by Creeper
+[26Apr2025 21:41:50.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:41:50.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:42:01.112] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=24, y=15, z=66}
+[26Apr2025 21:42:10.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 21:42:12.893] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=24, y=15, z=66}
+[26Apr2025 21:42:21.437] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=29, y=14, z=34}
+[26Apr2025 21:42:27.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 21:43:07.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was shot by Skeleton
+[26Apr2025 21:43:09.236] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:43:09.236] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:43:20.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:43:22.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by 17igvnaciojaja using    [Molten Diamond Sword]
+[26Apr2025 21:43:28.488] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:43:28.489] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:43:34.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Wilden Stalker
+[26Apr2025 21:43:36.343] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:43:36.344] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 21:43:37.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 21:43:38.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:43:38.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

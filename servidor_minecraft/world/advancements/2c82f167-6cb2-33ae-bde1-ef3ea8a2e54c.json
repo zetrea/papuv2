@@ -3461,6 +3461,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 21:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/vertical_magenta_wool_slab_to_magenta_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -7256,6 +7262,12 @@
   "draconicevolution:recipes/draconicevolution.modules/modules/draconic_speed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:35:24 +0000"
     },
     "done": true
   },
@@ -14348,6 +14360,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:19 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/infinity_ham": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:35:22 +0000"
     },
     "done": true
   },
@@ -27892,6 +27910,7 @@
       "minecraft:spider": "2025-04-26 21:04:30 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
+      "minecraft:enderman": "2025-04-26 21:34:35 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:stray": "2025-04-26 21:25:59 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000"
@@ -36974,6 +36993,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_10": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 21:33:27 +0000"
     },
     "done": true
   },

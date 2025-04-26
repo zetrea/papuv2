@@ -7259,6 +7259,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:35:29 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/mind_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:09 +0000"
@@ -23096,6 +23102,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-26 21:33:34 +0000",
       "bread": "2025-04-26 21:23:17 +0000",
       "golden_apple": "2025-04-26 21:20:11 +0000",
       "rotten_flesh": "2025-04-26 20:53:09 +0000",
@@ -27878,6 +27885,7 @@
       "minecraft:wither_skeleton": "2025-04-26 21:20:28 +0000",
       "minecraft:cave_spider": "2025-04-26 21:18:29 +0000",
       "minecraft:enderman": "2025-04-26 20:59:00 +0000",
+      "minecraft:stray": "2025-04-26 21:37:09 +0000",
       "minecraft:zombie": "2025-04-26 20:52:27 +0000"
     },
     "done": false
@@ -36985,6 +36993,12 @@
     },
     "done": true
   },
+  "hats:hats/hats_unlocked_10": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 21:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:27 +0000"
@@ -37966,6 +37980,12 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:30 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/bone": {
+    "criteria": {
+      "has_bone": "2025-04-26 21:35:38 +0000"
     },
     "done": true
   },
@@ -39634,7 +39654,8 @@
   "chaosawakens:root/apple_hoarder": {
     "criteria": {
       "apple": "2025-04-26 21:03:55 +0000",
-      "golden_apple": "2025-04-26 20:54:03 +0000"
+      "golden_apple": "2025-04-26 20:54:03 +0000",
+      "enchanted_golden_apple": "2025-04-26 21:40:03 +0000"
     },
     "done": false
   },
@@ -43374,6 +43395,12 @@
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:23 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/wear_hat": {
+    "criteria": {
+      "code_trigger": "2025-04-26 21:34:11 +0000"
     },
     "done": true
   },
