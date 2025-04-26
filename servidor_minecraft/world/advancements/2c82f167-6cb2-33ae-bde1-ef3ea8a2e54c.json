@@ -6371,6 +6371,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-04-26 22:50:50 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/botania/pattern_1_2": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -7559,6 +7565,12 @@
     },
     "done": true
   },
+  "chaosawakens:root/ent_destroyer": {
+    "criteria": {
+      "oak_ent": "2025-04-26 22:41:54 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/smelting/ingot_nickel_compat_immersiveengineering": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:20 +0000"
@@ -8600,6 +8612,12 @@
   "minecraft:recipes/extendedslabs/vertical_orange_concrete_slab_to_orange_concrete_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "structure": "2025-04-26 22:43:23 +0000"
     },
     "done": true
   },
@@ -24747,6 +24765,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-04-26 22:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/vertical_cyan_glazed_terracotta_slab_to_cyan_glazed_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -25002,6 +25026,12 @@
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/controlrod": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:35 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/mushrooms": {
+    "criteria": {
+      "has_mushroom": "2025-04-26 22:41:55 +0000"
     },
     "done": true
   },
@@ -27975,7 +28005,9 @@
       "minecraft:pillager": "2025-04-26 21:15:50 +0000",
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
       "minecraft:vindicator": "2025-04-26 22:02:30 +0000",
+      "minecraft:magma_cube": "2025-04-26 22:50:37 +0000",
       "minecraft:spider": "2025-04-26 21:04:30 +0000",
+      "minecraft:piglin_brute": "2025-04-26 22:44:17 +0000",
       "minecraft:creeper": "2025-04-26 21:53:56 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
@@ -29083,6 +29115,12 @@
   "mythicbotany:recipes/mythicbotany/fire_ring": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-26 22:54:43 +0000"
     },
     "done": true
   },
@@ -36998,6 +37036,12 @@
   "extendedslabs:recipes/extendedslabs/black_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_25": {
+    "criteria": {
+      "hats_unlocked": "2025-04-26 22:49:44 +0000"
     },
     "done": true
   },
@@ -46627,6 +46671,7 @@
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
       "minecraft:dark_forest": "2025-04-26 22:13:39 +0000",
       "minecraft:river": "2025-04-26 20:36:46 +0000",
+      "minecraft:cold_ocean": "2025-04-26 22:43:58 +0000",
       "minecraft:forest": "2025-04-26 20:34:35 +0000",
       "minecraft:savanna": "2025-04-26 22:11:36 +0000",
       "minecraft:plains": "2025-04-26 20:36:51 +0000"
@@ -47368,6 +47413,12 @@
   "projecte:recipes/projecte/dm_shovel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:20 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-04-26 22:50:50 +0000"
     },
     "done": true
   },

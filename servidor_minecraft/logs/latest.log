@@ -6531,3 +6531,135 @@ java.lang.NullPointerException: null
 [26Apr2025 22:44:44.544] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Apr2025 22:44:44.544] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [26Apr2025 22:44:49.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:45:28.429] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:29.983] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:29.984] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:43.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59543, l='ServerLevel[world]', x=729.57, y=49.00, z=162.48]
+[26Apr2025 22:45:43.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59543, l='ServerLevel[world]', x=729.57, y=49.00, z=162.48]
+[26Apr2025 22:45:43.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59543, l='ServerLevel[world]', x=729.57, y=49.00, z=162.48]
+[26Apr2025 22:45:43.589] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:45.367] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:45.480] [Worker-Main-7/WARN] [ModernFix/]: The namespace desert_upgrade contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[26Apr2025 22:45:46.630] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:46.631] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:46.631] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:45:48.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59652, l='ServerLevel[world]', x=730.42, y=51.17, z=175.79]
+[26Apr2025 22:45:48.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59652, l='ServerLevel[world]', x=730.42, y=51.17, z=175.79]
+[26Apr2025 22:45:48.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59652, l='ServerLevel[world]', x=730.42, y=51.17, z=175.79]
+[26Apr2025 22:45:51.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Debris Miner
+[26Apr2025 22:45:52.808] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:45:52.808] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:45:56.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:45:57.300] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59971, l='ServerLevel[world]', x=726.85, y=50.02, z=160.26]
+[26Apr2025 22:45:57.300] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59971, l='ServerLevel[world]', x=726.85, y=50.02, z=160.26]
+[26Apr2025 22:45:57.300] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59971, l='ServerLevel[world]', x=726.85, y=50.02, z=160.26]
+[26Apr2025 22:46:01.228] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59984, l='ServerLevel[world]', x=729.36, y=49.00, z=138.63]
+[26Apr2025 22:46:01.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59984, l='ServerLevel[world]', x=729.36, y=49.00, z=138.63]
+[26Apr2025 22:46:01.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/59984, l='ServerLevel[world]', x=729.36, y=49.00, z=138.63]
+[26Apr2025 22:46:11.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60004, l='ServerLevel[world]', x=729.06, y=52.00, z=135.21]
+[26Apr2025 22:46:11.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60004, l='ServerLevel[world]', x=729.06, y=52.00, z=135.21]
+[26Apr2025 22:46:11.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60004, l='ServerLevel[world]', x=729.06, y=52.00, z=135.21]
+[26Apr2025 22:46:37.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60041, l='ServerLevel[world]', x=731.84, y=49.23, z=123.66]
+[26Apr2025 22:46:37.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60041, l='ServerLevel[world]', x=731.84, y=49.23, z=123.66]
+[26Apr2025 22:46:37.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60041, l='ServerLevel[world]', x=731.84, y=49.23, z=123.66]
+[26Apr2025 22:46:42.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60052, l='ServerLevel[world]', x=729.98, y=52.00, z=135.51]
+[26Apr2025 22:46:42.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60052, l='ServerLevel[world]', x=729.98, y=52.00, z=135.51]
+[26Apr2025 22:46:42.428] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60052, l='ServerLevel[world]', x=729.98, y=52.00, z=135.51]
+[26Apr2025 22:46:47.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60065, l='ServerLevel[world]', x=729.72, y=52.00, z=135.60]
+[26Apr2025 22:46:47.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60065, l='ServerLevel[world]', x=729.72, y=52.00, z=135.60]
+[26Apr2025 22:46:47.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60065, l='ServerLevel[world]', x=729.72, y=52.00, z=135.60]
+[26Apr2025 22:46:56.828] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60090, l='ServerLevel[world]', x=729.76, y=52.00, z=135.63]
+[26Apr2025 22:46:56.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60090, l='ServerLevel[world]', x=729.76, y=52.00, z=135.63]
+[26Apr2025 22:46:56.829] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60090, l='ServerLevel[world]', x=729.76, y=52.00, z=135.63]
+[26Apr2025 22:47:05.627] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60129, l='ServerLevel[world]', x=730.25, y=50.08, z=150.54]
+[26Apr2025 22:47:05.627] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60129, l='ServerLevel[world]', x=730.25, y=50.08, z=150.54]
+[26Apr2025 22:47:05.628] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60129, l='ServerLevel[world]', x=730.25, y=50.08, z=150.54]
+[26Apr2025 22:47:05.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was burnt to a crisp whilst fighting Debris Miner
+[26Apr2025 22:47:07.099] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:47:07.099] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:47:12.018] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60370, l='ServerLevel[world]', x=729.90, y=52.00, z=136.03]
+[26Apr2025 22:47:12.018] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60370, l='ServerLevel[world]', x=729.90, y=52.00, z=136.03]
+[26Apr2025 22:47:13.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Apr2025 22:47:19.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Debris Miner
+[26Apr2025 22:47:21.013] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:47:21.013] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 22:47:24.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Debris Miner
+[26Apr2025 22:47:26.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 729.5, 50.0, 134.5]
+[26Apr2025 22:47:26.150] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:47:26.150] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:47:31.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60793, l='ServerLevel[world]', x=732.50, y=48.75, z=176.70]
+[26Apr2025 22:47:31.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/60793, l='ServerLevel[world]', x=732.50, y=48.75, z=176.70]
+[26Apr2025 22:47:44.679] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:47:44.680] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:48:21.528] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:48:21.529] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:48:32.226] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:49:26.284] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:49:26.285] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:49:26.285] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:49:27.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 22:49:34.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 22:49:44.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Hat Critic]
+[26Apr2025 22:50:32.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Magma Cube
+[26Apr2025 22:50:33.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Spooky Scary Skeleton]
+[26Apr2025 22:50:35.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Magma Cube
+[26Apr2025 22:50:36.707] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:50:36.707] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:50:37.073] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:50:37.073] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:50:41.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 818.5, 15.0, 150.5]
+[26Apr2025 22:51:37.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was turned to ice by Ice Dragon
+[26Apr2025 22:51:42.494] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:51:42.494] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:51:48.155] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:51:48.159] [Server thread/INFO] [STDOUT/]: [com.mactso.spawnbalanceutility.util.Utility:genericMonsterSpawnRules:84]: entity.minecraft.piglin_brute
+[26Apr2025 22:51:50.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was killed by magic whilst trying to escape Forge Sentry
+[26Apr2025 22:51:52.992] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:51:52.992] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:51:53.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Ice Dragon
+[26Apr2025 22:51:55.502] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:51:55.502] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 22:51:58.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 818.5, 18.0, 142.5]
+[26Apr2025 22:52:05.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Hoglin
+[26Apr2025 22:52:07.497] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:07.497] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:52:09.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was burnt to a crisp whilst fighting Forge Sentry
+[26Apr2025 22:52:15.617] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:15.617] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:52:21.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 813.5, 16.0, 141.5]
+[26Apr2025 22:52:21.237] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntityXPOrbBig['Experience Orb'/64270, l='ServerLevel[world]', x=812.72, y=15.02, z=141.83]
+[26Apr2025 22:52:30.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was killed by magic whilst trying to escape Hoglin
+[26Apr2025 22:52:31.543] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:31.543] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:52:36.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 816.5, 15.0, 137.5]
+[26Apr2025 22:52:36.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Forge Sentry
+[26Apr2025 22:52:38.415] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:38.415] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:52:41.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was killed by magic whilst trying to escape Forge Sentry
+[26Apr2025 22:52:43.242] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:43.242] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:52:48.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 823.5, 15.0, 136.5]
+[26Apr2025 22:52:53.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Debris Miner
+[26Apr2025 22:52:55.532] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:52:55.532] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:53:00.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was shot by Skeleton
+[26Apr2025 22:53:01.497] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:53:01.498] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:53:11.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was killed by magic whilst trying to escape Forge Sentry
+[26Apr2025 22:53:13.246] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:53:13.246] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 22:54:15.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Magma Cube
+[26Apr2025 22:54:17.766] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:54:17.766] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:54:43.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Hidden in the Depths]
+[26Apr2025 22:55:04.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was burnt to a crisp whilst fighting Hoglin
+[26Apr2025 22:55:05.363] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@6643536a
+[26Apr2025 22:55:06.111] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:55:06.112] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:55:08.355] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@3fe2fbc6
+[26Apr2025 22:55:10.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Magma Cube
+[26Apr2025 22:55:11.949] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:55:11.950] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 22:55:17.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Magma Cube
+[26Apr2025 22:55:18.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 22:55:18.791] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
