@@ -6063,3 +6063,30 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 21:43:37.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
 [26Apr2025 21:43:38.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Apr2025 21:43:38.891] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:44:04.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:44:06.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Wilden Stalker
+[26Apr2025 21:44:17.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Wilden Stalker
+[26Apr2025 21:44:18.839] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:44:18.839] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:44:21.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Wilden Stalker
+[26Apr2025 21:44:22.813] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:44:22.813] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:44:24.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 68.5, 23.0, 58.5]
+[26Apr2025 21:44:45.036] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:44:45.036] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 21:45:25.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 62.5, 24.0, 45.5]
+[26Apr2025 21:46:51.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:48:11.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 21:48:27.804] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=22, y=88, z=35}
+[26Apr2025 21:48:27.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[26Apr2025 21:48:37.052] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=22, y=88, z=35}
+[26Apr2025 21:49:19.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Ice Bucket Challenge]
+[26Apr2025 21:49:19.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Ice Bucket Challenge]
+[26Apr2025 21:49:51.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:50:36.780] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=22, y=88, z=35}
+[26Apr2025 21:50:36.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8762ms or 175 ticks behind
+[26Apr2025 21:50:36.810] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: AnbertitoKawaixX moved too quickly! -9.850252211600676,0.023088109101550458,-2.3675987820336477
+[26Apr2025 21:50:47.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:51:16.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Cobweb Entanglement]
+[26Apr2025 21:53:09.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Penteconter]
+[26Apr2025 21:53:50.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]

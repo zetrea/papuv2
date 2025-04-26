@@ -27687,6 +27687,12 @@
     },
     "done": true
   },
+  "relics:obtain/chorus_inhibitor": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/purple_wool_slab_to_vertical_purple_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -39663,7 +39669,8 @@
   "chaosawakens:root/apple_hoarder": {
     "criteria": {
       "apple": "2025-04-26 20:38:40 +0000",
-      "golden_apple": "2025-04-26 21:10:38 +0000"
+      "golden_apple": "2025-04-26 21:10:38 +0000",
+      "enchanted_golden_apple": "2025-04-26 21:40:29 +0000"
     },
     "done": false
   },

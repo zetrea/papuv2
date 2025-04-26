@@ -31798,6 +31798,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/potato": {
+    "criteria": {
+      "has_potato": "2025-04-26 21:47:53 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_redwood_wood_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:53 +0000"
@@ -32761,6 +32767,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_treated_wood_vertical": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-26 21:49:19 +0000"
     },
     "done": true
   },

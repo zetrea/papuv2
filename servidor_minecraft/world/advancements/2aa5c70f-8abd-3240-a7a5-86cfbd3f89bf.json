@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:40:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-26 20:47:40 +0000"
@@ -12515,6 +12521,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_birch": {
+    "criteria": {
+      "has_plank": "2025-04-26 21:43:47 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/network_transmitter": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:12 +0000"
@@ -13328,6 +13340,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/black_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:10 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/midnight_robe": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:40:39 +0000"
     },
     "done": true
   },
@@ -27659,6 +27677,12 @@
     },
     "done": true
   },
+  "relics:obtain/chorus_inhibitor": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 21:41:19 +0000"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:11 +0000"
@@ -32730,6 +32754,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_treated_wood_vertical": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-26 21:49:19 +0000"
     },
     "done": true
   },
@@ -39240,6 +39270,12 @@
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_plank": "2025-04-26 21:43:47 +0000"
     },
     "done": true
   },
