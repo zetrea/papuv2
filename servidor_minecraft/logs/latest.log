@@ -5898,3 +5898,79 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 21:23:04.357] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [26Apr2025 21:23:04.357] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
 [26Apr2025 21:23:23.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[26Apr2025 21:24:34.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Zombie
+[26Apr2025 21:24:36.170] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:24:36.171] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:25:43.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/16204, l='ServerLevel[world]', x=69.62, y=66.00, z=59.38]
+[26Apr2025 21:25:43.429] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/16204, l='ServerLevel[world]', x=69.62, y=66.00, z=59.38]
+[26Apr2025 21:25:43.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/16204, l='ServerLevel[world]', x=69.62, y=66.00, z=59.38]
+[26Apr2025 21:25:54.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:26:23.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:26:50.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Earosto
+[26Apr2025 21:26:51.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:26:51.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:26:55.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Earosto
+[26Apr2025 21:26:57.807] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:26:57.807] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:27:02.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:27:03.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Earosto
+[26Apr2025 21:27:04.693] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:27:04.694] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 21:27:06.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Earosto
+[26Apr2025 21:27:07.939] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:27:07.939] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:27:11.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:27:31.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Earosto
+[26Apr2025 21:27:31.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 21:27:33.018] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:27:33.018] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 21:27:37.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 21:27:40.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:28:51.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Earosto
+[26Apr2025 21:28:53.606] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:28:53.606] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:29:03.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:29:17.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Earosto
+[26Apr2025 21:29:19.087] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:29:19.087] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:29:30.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:29:38.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Zombie
+[26Apr2025 21:29:39.920] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:29:39.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:29:46.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 53.5, 32.0, 67.5]
+[26Apr2025 21:29:51.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Take Aim]
+[26Apr2025 21:29:51.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Earosto
+[26Apr2025 21:29:53.143] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:29:53.143] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:29:55.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:30:06.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Zombie
+[26Apr2025 21:30:09.414] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:30:09.415] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:30:19.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Earosto
+[26Apr2025 21:30:20.652] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:30:20.652] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[26Apr2025 21:30:38.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Earosto
+[26Apr2025 21:30:44.910] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:30:44.910] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:30:55.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Earosto
+[26Apr2025 21:30:57.052] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:30:57.052] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:31:16.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Earosto
+[26Apr2025 21:31:18.111] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:31:18.111] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:31:42.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Earosto
+[26Apr2025 21:31:43.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:31:43.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:31:50.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Zombie
+[26Apr2025 21:31:51.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:31:51.587] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:32:07.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by Zombie
+[26Apr2025 21:32:08.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:32:08.901] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:32:20.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Earosto
+[26Apr2025 21:32:21.405] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:32:21.405] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 21:32:22.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:32:23.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:32:24.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Sweet Dreams]
+[26Apr2025 21:33:27.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Hat Collector]
