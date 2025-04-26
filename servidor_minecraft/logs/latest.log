@@ -6126,3 +6126,67 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 22:01:52.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Ahoy Captain]
 [26Apr2025 22:02:37.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Ol' Betsy]
 [26Apr2025 22:03:55.981] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21829, l='ServerLevel[world]', x=299.46, y=81.00, z=76.30] died, message: 'Villager was slain by Zombie'
+[26Apr2025 22:04:22.386] [Netty Epoll Server IO #5/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 22:04:22.409] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 22:04:22.413] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 22:04:28.981] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa lost connection: You logged in from another location
+[26Apr2025 22:04:28.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa left the game
+[26Apr2025 22:04:29.509] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:44697] logged in with entity id 29503 at (274.47075371829897, 77.0, 66.89916415605119)
+[26Apr2025 22:04:29.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[26Apr2025 22:04:29.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[26Apr2025 22:04:29.511] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[26Apr2025 22:04:29.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[26Apr2025 22:04:29.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[26Apr2025 22:04:29.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[26Apr2025 22:04:29.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[26Apr2025 22:04:29.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[26Apr2025 22:06:00.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:08:43.070] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityWhale from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:09:22.898] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/31382, l='ServerLevel[world]', x=231.28, y=85.33, z=-22.43]
+[26Apr2025 22:09:22.898] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Stairs'/31383, l='ServerLevel[world]', x=227.48, y=84.47, z=-23.51]
+[26Apr2025 22:09:22.899] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/31384, l='ServerLevel[world]', x=230.74, y=84.69, z=-22.33]
+[26Apr2025 22:09:22.899] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone Wall'/31385, l='ServerLevel[world]', x=228.48, y=83.60, z=-24.36]
+[26Apr2025 22:09:22.899] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Slab'/31386, l='ServerLevel[world]', x=229.54, y=82.60, z=-24.28]
+[26Apr2025 22:09:22.899] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Trapdoor'/31387, l='ServerLevel[world]', x=227.29, y=83.49, z=-25.67]
+[26Apr2025 22:09:22.899] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Brick Wall'/31390, l='ServerLevel[world]', x=230.35, y=83.43, z=-24.62]
+[26Apr2025 22:09:22.900] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Bars'/31391, l='ServerLevel[world]', x=227.56, y=87.63, z=-24.58]
+[26Apr2025 22:09:22.900] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crafting Table'/31392, l='ServerLevel[world]', x=231.54, y=86.59, z=-22.71]
+[26Apr2025 22:09:22.900] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Bricks'/31393, l='ServerLevel[world]', x=231.50, y=81.40, z=-22.64]
+[26Apr2025 22:09:52.325] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[26Apr2025 22:09:52.325] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[26Apr2025 22:09:52.325] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[26Apr2025 22:09:52.325] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[26Apr2025 22:09:53.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:11:14.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has unlocked Glory Shards trinket
+[26Apr2025 22:11:25.692] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:11:40.098] [Worker-Main-5/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:11:54.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[26Apr2025 22:11:57.065] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=54, y=50, z=-343} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:11:57.065] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=54, y=50, z=-343}
+[26Apr2025 22:12:02.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:12:17.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:12:33.882] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=207, y=82, z=-315} BlockPos{x=207, y=81, z=-315}
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=381, y=-5, z=-487} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=381, y=-5, z=-487}
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=374, y=-5, z=-494} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=374, y=-5, z=-494}
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=376, y=-5, z=-493} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=376, y=-5, z=-493}
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=374, y=-5, z=-486} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.261] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=374, y=-5, z=-486}
+[26Apr2025 22:12:36.262] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=376, y=-5, z=-486} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.262] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=376, y=-5, z=-486}
+[26Apr2025 22:12:36.262] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=383, y=-5, z=-493} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:36.262] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=383, y=-5, z=-493}
+[26Apr2025 22:12:51.655] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=385, y=-5, z=-492} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:51.655] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=385, y=-5, z=-492}
+[26Apr2025 22:12:51.655] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=385, y=-1, z=-491} but found not block entity block Block{minecraft:air} at location
+[26Apr2025 22:12:51.655] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=385, y=-1, z=-491}
+[26Apr2025 22:13:01.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [What are they even for?]
+[26Apr2025 22:13:22.281] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:13:29.435] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 22:13:34.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 22:13:59.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to 17igvnaciojaja]
+[26Apr2025 22:14:03.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Wildcat]
+[26Apr2025 22:14:03.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [First Steps]
+[26Apr2025 22:14:03.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Ice Bucket Challenge]

@@ -27947,13 +27947,16 @@
     "criteria": {
       "minecraft:pillager": "2025-04-26 21:56:31 +0000",
       "minecraft:skeleton": "2025-04-26 20:55:19 +0000",
+      "minecraft:vindicator": "2025-04-26 22:01:59 +0000",
       "minecraft:spider": "2025-04-26 21:15:58 +0000",
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
+      "minecraft:evoker": "2025-04-26 22:02:38 +0000",
       "minecraft:husk": "2025-04-26 21:32:21 +0000",
       "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
       "minecraft:enderman": "2025-04-26 20:58:56 +0000",
       "minecraft:silverfish": "2025-04-26 21:09:38 +0000",
       "minecraft:stray": "2025-04-26 21:25:50 +0000",
+      "minecraft:vex": "2025-04-26 22:02:44 +0000",
       "minecraft:zombie": "2025-04-26 20:45:53 +0000"
     },
     "done": false
@@ -30055,6 +30058,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/rhinestone_pillar_from_rhinestone_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-26 22:02:37 +0000"
     },
     "done": true
   },
@@ -46577,6 +46586,7 @@
       "minecraft:beach": "2025-04-26 21:56:03 +0000",
       "minecraft:river": "2025-04-26 20:43:08 +0000",
       "minecraft:forest": "2025-04-26 20:38:02 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-26 22:02:28 +0000",
       "minecraft:wooded_hills": "2025-04-26 21:53:03 +0000",
       "minecraft:plains": "2025-04-26 20:43:15 +0000"
     },
