@@ -1,0 +1,20 @@
+{
+	id: "6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb"
+	type: "player"
+	player_name: "AnbertitoKawaixX"
+	ranks: {
+		6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "AnbertitoKawaixX"
+		"ftbteams:color": "#A959FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

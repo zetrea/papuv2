@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "2c82f1676cb233aebde1ef3ea8a2e54c"
+	name: "17igvnaciojaja"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

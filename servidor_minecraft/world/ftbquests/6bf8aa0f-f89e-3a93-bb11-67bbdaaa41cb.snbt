@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "6bf8aa0ff89e3a93bb1167bbdaaa41cb"
+	name: "AnbertitoKawaixX"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

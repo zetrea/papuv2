@@ -1,0 +1,20 @@
+{
+	id: "2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf"
+	type: "player"
+	player_name: "zetreaa"
+	ranks: {
+		2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "zetreaa"
+		"ftbteams:color": "#FF59D6"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
