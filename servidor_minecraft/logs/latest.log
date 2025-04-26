@@ -6090,3 +6090,39 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 21:51:16.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Cobweb Entanglement]
 [26Apr2025 21:53:09.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Penteconter]
 [26Apr2025 21:53:50.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 21:54:33.674] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:54:33.674] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[26Apr2025 21:54:34.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:54:34.674] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:54:34.675] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityJellyfish from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[26Apr2025 21:54:39.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Trendsetter]
+[26Apr2025 21:54:51.932] [Worker-Main-6/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[26Apr2025 21:54:54.091] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:54:54.091] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[26Apr2025 21:54:54.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[26Apr2025 21:55:22.099] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:55:33.571] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:56:17.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Ahoy Captain]
+[26Apr2025 21:56:30.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Not Today, Thank You]
+[26Apr2025 21:57:16.380] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: Disconnected
+[26Apr2025 21:57:16.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game
+[26Apr2025 21:57:19.901] [Netty Epoll Server IO #1/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[26Apr2025 21:57:19.927] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[26Apr2025 21:57:19.934] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[26Apr2025 21:57:26.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@36b168b1
+[26Apr2025 21:57:26.900] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.42.250.225:56523] logged in with entity id 27083 at (251.69999998807907, 73.0, 46.276813038474906)
+[26Apr2025 21:57:26.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[26Apr2025 21:57:26.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[26Apr2025 21:57:26.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[26Apr2025 21:57:26.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[26Apr2025 21:57:26.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[26Apr2025 21:57:26.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[26Apr2025 21:57:26.905] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[26Apr2025 21:57:26.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[26Apr2025 22:00:08.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Taxidermist]
+[26Apr2025 22:01:27.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Luck Coin trinket
+[26Apr2025 22:01:36.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Masquerade]
+[26Apr2025 22:01:51.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 22:01:52.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Ahoy Captain]
+[26Apr2025 22:02:37.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Ol' Betsy]
+[26Apr2025 22:03:55.981] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/21829, l='ServerLevel[world]', x=299.46, y=81.00, z=76.30] died, message: 'Villager was slain by Zombie'

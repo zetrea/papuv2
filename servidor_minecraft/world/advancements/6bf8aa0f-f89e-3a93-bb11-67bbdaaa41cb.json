@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-26 21:56:30 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.equipment/tin_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:44 +0000"
@@ -7274,6 +7280,12 @@
   "draconicevolution:recipes/draconicevolution.modules/modules/draconic_speed": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:53:09 +0000"
     },
     "done": true
   },
@@ -15911,6 +15923,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-26 21:56:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terraform_rod": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:00 +0000"
@@ -21460,6 +21478,12 @@
       "has_the_recipe": "2025-04-26 20:37:55 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:51:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
@@ -27655,6 +27679,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-26 21:56:17 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -27915,6 +27945,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-26 21:56:31 +0000",
       "minecraft:skeleton": "2025-04-26 20:55:19 +0000",
       "minecraft:spider": "2025-04-26 21:15:58 +0000",
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
@@ -46543,8 +46574,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-26 21:56:03 +0000",
       "minecraft:river": "2025-04-26 20:43:08 +0000",
       "minecraft:forest": "2025-04-26 20:38:02 +0000",
+      "minecraft:wooded_hills": "2025-04-26 21:53:03 +0000",
       "minecraft:plains": "2025-04-26 20:43:15 +0000"
     },
     "done": false
@@ -47401,6 +47434,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-04-26 21:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/vertical_blue_concrete_powder_slab_to_blue_concrete_powder_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:47 +0000"
@@ -47638,6 +47677,12 @@
   "blue_skies:recipes/blue_skies_dungeon/nature_stonebrick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 21:51:16 +0000"
     },
     "done": true
   },
