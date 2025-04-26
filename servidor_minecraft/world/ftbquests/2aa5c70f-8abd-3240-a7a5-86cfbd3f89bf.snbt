@@ -5,9 +5,19 @@
 	can_edit: false
 	lock: false
 	auto_pin: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		1EFBFB4C9C4DBD81: 1
+	}
+	started: {
+		1EFBFB4C9C4DBD81: 1745700804785L
+		0BB1A6609C85D492: 1745700804785L
+		0000000000000001: 1745700804785L
+		7A6CFA6F454BFF06: 1745700804785L
+	}
+	completed: {
+		1EFBFB4C9C4DBD81: 1745700804785L
+		7A6CFA6F454BFF06: 1745700804785L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }

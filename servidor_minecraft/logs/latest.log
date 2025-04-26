@@ -5693,3 +5693,59 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Apr2025 20:52:43.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement [Cover Me With Diamonds]
 [26Apr2025 20:52:44.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX has made the advancement ['X' Marks the Spot]
 [26Apr2025 20:52:55.616] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@3bae690
+[26Apr2025 20:53:18.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Barrel Booty]
+[26Apr2025 20:53:34.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement ['X' Marks the Spot]
+[26Apr2025 20:55:44.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:57:10.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported zetreaa to AnbertitoKawaixX]
+[26Apr2025 20:58:08.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:58:19.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava to escape Zombie
+[26Apr2025 20:58:19.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:58:20.840] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:58:20.840] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 20:58:23.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:59:25.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX was slain by Zombie
+[26Apr2025 20:59:26.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:59:26.866] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 20:59:28.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:59:34.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 20:59:45.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava to escape Zombie
+[26Apr2025 20:59:47.656] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:59:47.656] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 20:59:54.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 20:59:56.004] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 20:59:56.004] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[26Apr2025 20:59:56.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to AnbertitoKawaixX]
+[26Apr2025 21:00:00.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[26Apr2025 21:00:19.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AnbertitoKawaixX tried to swim in lava
+[26Apr2025 21:00:21.090] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[26Apr2025 21:00:21.090] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[26Apr2025 21:00:26.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AnbertitoKawaixX: Teleported AnbertitoKawaixX to zetreaa]
+[26Apr2025 21:02:00.663] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@3bae690
+[26Apr2025 21:02:41.322] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=81, y=69, z=77}
+[26Apr2025 21:02:41.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10504ms or 210 ticks behind
+[26Apr2025 21:02:41.368] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: AnbertitoKawaixX moved too quickly! 3.1165502483994203,0.12129684053920187,9.647647150837855
+[26Apr2025 21:02:43.102] [Worker-Main-7/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBoar from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:02:43.141] [Worker-Main-6/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBadger from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[26Apr2025 21:02:44.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/8396, l='ServerLevel[world]', x=116.37, y=62.53, z=63.65]
+[26Apr2025 21:02:44.430] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/8396, l='ServerLevel[world]', x=116.37, y=62.53, z=63.65]
+[26Apr2025 21:02:44.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/8400, l='ServerLevel[world]', x=116.63, y=62.75, z=64.67]
+[26Apr2025 21:02:44.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pressure Plate'/8400, l='ServerLevel[world]', x=116.63, y=62.75, z=64.67]
+[26Apr2025 21:02:44.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/8403, l='ServerLevel[world]', x=116.32, y=60.29, z=65.32]
+[26Apr2025 21:02:44.431] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gold Ore'/8403, l='ServerLevel[world]', x=116.32, y=60.29, z=65.32]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8404, l='ServerLevel[world]', x=115.52, y=59.48, z=63.50]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8404, l='ServerLevel[world]', x=115.52, y=59.48, z=63.50]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/8405, l='ServerLevel[world]', x=117.40, y=61.38, z=64.70]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/8405, l='ServerLevel[world]', x=117.40, y=61.38, z=64.70]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/8406, l='ServerLevel[world]', x=115.39, y=61.61, z=65.36]
+[26Apr2025 21:02:44.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Emerald'/8406, l='ServerLevel[world]', x=115.39, y=61.61, z=65.36]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/8407, l='ServerLevel[world]', x=114.33, y=60.42, z=64.34]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Marble'/8407, l='ServerLevel[world]', x=114.33, y=60.42, z=64.34]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/8408, l='ServerLevel[world]', x=117.29, y=60.48, z=65.34]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Lapis Lazuli'/8408, l='ServerLevel[world]', x=117.29, y=60.48, z=65.34]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/8409, l='ServerLevel[world]', x=114.34, y=61.44, z=64.71]
+[26Apr2025 21:02:44.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Copper Ore'/8409, l='ServerLevel[world]', x=114.34, y=61.44, z=64.71]
+[26Apr2025 21:02:44.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8410, l='ServerLevel[world]', x=116.32, y=59.58, z=64.61]
+[26Apr2025 21:02:44.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/8410, l='ServerLevel[world]', x=116.32, y=59.58, z=64.61]
+[26Apr2025 21:02:44.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/8411, l='ServerLevel[world]', x=116.41, y=61.65, z=65.36]
+[26Apr2025 21:02:44.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diamond'/8411, l='ServerLevel[world]', x=116.41, y=61.65, z=65.36]
+[26Apr2025 21:02:50.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to AnbertitoKawaixX]

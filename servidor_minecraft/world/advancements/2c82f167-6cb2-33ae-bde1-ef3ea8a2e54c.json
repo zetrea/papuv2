@@ -3131,6 +3131,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-26 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/vertical_gray_stained_glass_slab_to_gray_stained_glass_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:13 +0000"
@@ -8024,6 +8030,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_pink_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:50:42 +0000"
     },
     "done": true
   },
@@ -20723,6 +20735,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/meat": {
+    "criteria": {
+      "has_raw_meats": "2025-04-26 20:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/gray_stained_glass_slab_to_vertical_gray_stained_glass_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:24 +0000"
@@ -21386,6 +21404,12 @@
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:24 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-26 20:55:51 +0000"
     },
     "done": true
   },
@@ -23041,7 +23065,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-04-26 20:38:53 +0000"
+      "beef": "2025-04-26 20:55:21 +0000",
+      "porkchop": "2025-04-26 20:57:09 +0000",
+      "apple": "2025-04-26 20:38:53 +0000",
+      "rotten_flesh": "2025-04-26 20:49:59 +0000"
     },
     "done": false
   },
@@ -27823,6 +27850,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000"
     },
@@ -30770,6 +30798,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-26 20:50:42 +0000",
       "opened_chest": "2025-04-26 20:38:37 +0000"
     },
     "done": false
@@ -40629,6 +40658,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-26 20:55:33 +0000"
     },
     "done": true
   },

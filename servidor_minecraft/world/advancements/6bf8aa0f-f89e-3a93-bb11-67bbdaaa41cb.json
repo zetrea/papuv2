@@ -1451,6 +1451,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2025-04-26 20:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:52 +0000"
@@ -3122,6 +3128,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/cracked_limestone_bricks_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-26 20:52:43 +0000"
     },
     "done": true
   },
@@ -6431,6 +6443,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/gunpowder": {
+    "criteria": {
+      "has_gunpowder": "2025-04-26 20:58:58 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/polished_cinderstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:58 +0000"
@@ -8012,6 +8030,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_pink_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:52:33 +0000"
     },
     "done": true
   },
@@ -12917,6 +12941,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 20:50:51 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/green_terracotta_brick_wall_from_green_terracotta_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
@@ -14930,6 +14960,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/polished_cinderstone_stairs_stonecutting_polished_cinderstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-26 20:50:19 +0000"
     },
     "done": true
   },
@@ -22301,6 +22337,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-26 20:52:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/dead_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:56 +0000"
@@ -23020,6 +23062,12 @@
       "has_the_recipe": "2025-04-26 20:38:00 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-04-26 20:57:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
@@ -27805,6 +27853,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 20:55:19 +0000",
+      "minecraft:creeper": "2025-04-26 20:59:17 +0000",
+      "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
+      "minecraft:enderman": "2025-04-26 20:58:56 +0000",
       "minecraft:zombie": "2025-04-26 20:45:53 +0000"
     },
     "done": false
@@ -30748,6 +30800,13 @@
       "has_the_recipe": "2025-04-26 20:37:59 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:52:33 +0000",
+      "opened_chest": "2025-04-26 20:52:44 +0000"
+    },
+    "done": false
   },
   "projecte:recipes/projecte/life_stone": {
     "criteria": {
@@ -35357,6 +35416,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-26 20:51:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/teru_teru_bozu": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:01 +0000"
@@ -36371,6 +36436,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-26 20:52:44 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_crimson_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:46 +0000"
@@ -36737,6 +36808,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 20:50:19 +0000"
+    },
+    "done": true
+  },
   "extendedslabs:recipes/extendedslabs/vertical_umbran_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:53 +0000"
@@ -36896,6 +36973,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/red_controller": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-26 20:50:19 +0000"
     },
     "done": true
   },
@@ -43012,6 +43095,12 @@
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
     },
     "done": true
+  },
+  "chaosawakens:root/super_carrot_vision": {
+    "criteria": {
+      "golden_carrot": "2025-04-26 20:52:43 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
