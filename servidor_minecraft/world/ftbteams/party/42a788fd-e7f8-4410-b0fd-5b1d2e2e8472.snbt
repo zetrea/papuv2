@@ -1,0 +1,27 @@
+{
+	id: "42a788fd-e7f8-4410-b0fd-5b1d2e2e8472"
+	type: "party"
+	owner: "6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb"
+	ranks: {
+		6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb: "owner"
+		2c82f167-6cb2-33ae-bde1-ef3ea8a2e54c: "invited"
+		2aa5c70f-8abd-3240-a7a5-86cfbd3f89bf: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "los lokiyos"
+		"ftbteams:color": "#A959FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745710655943L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"AnbertitoKawaixX\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb", date: 1745710655979L, text: "{\"color\":\"green\",\"text\":\"Invited 17igvnaciojaja\"}" }
+		{ from: "6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb", date: 1745710655980L, text: "{\"color\":\"green\",\"text\":\"Invited zetreaa\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1745710672502L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"zetreaa\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

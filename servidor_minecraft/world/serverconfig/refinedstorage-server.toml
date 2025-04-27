@@ -77,33 +77,33 @@
 	cancelAllUsage = 10
 
 [upgrades]
-	#The additional energy used by the Range Upgrade
+	#The additional energy used by the Fortune 3 Upgrade
 	#Range: > 0
-	rangeUpgradeUsage = 8
+	fortune3UpgradeUsage = 14
 	#The additional energy used by the Speed Upgrade
 	#Range: > 0
 	speedUpgradeUsage = 2
 	#The additional energy used by the Crafting Upgrade
 	#Range: > 0
 	craftingUpgradeUsage = 5
-	#The additional energy used by the Stack Upgrade
-	#Range: > 0
-	stackUpgradeUsage = 12
-	#The additional energy used by the Silk Touch Upgrade
-	#Range: > 0
-	silkTouchUpgradeUsage = 15
 	#The additional energy used by the Fortune 1 Upgrade
 	#Range: > 0
 	fortune1UpgradeUsage = 10
 	#The additional energy used by the Fortune 2 Upgrade
 	#Range: > 0
 	fortune2UpgradeUsage = 12
-	#The additional energy used by the Fortune 3 Upgrade
-	#Range: > 0
-	fortune3UpgradeUsage = 14
 	#The additional energy used by the Regulator Upgrade
 	#Range: > 0
 	regulatorUpgradeUsage = 15
+	#The additional energy used by the Stack Upgrade
+	#Range: > 0
+	stackUpgradeUsage = 12
+	#The additional energy used by the Silk Touch Upgrade
+	#Range: > 0
+	silkTouchUpgradeUsage = 15
+	#The additional energy used by the Range Upgrade
+	#Range: > 0
+	rangeUpgradeUsage = 8
 
 [cable]
 	#The energy used by the Cable
@@ -111,18 +111,18 @@
 	usage = 0
 
 [grid]
-	#The energy used by Grids
-	#Range: > 0
-	gridUsage = 2
 	#The energy used by Crafting Grids
 	#Range: > 0
 	craftingGridUsage = 4
-	#The energy used by Pattern Grids
-	#Range: > 0
-	patternGridUsage = 4
 	#The energy used by Fluid Grids
 	#Range: > 0
 	fluidGridUsage = 2
+	#The energy used by Pattern Grids
+	#Range: > 0
+	patternGridUsage = 4
+	#The energy used by Grids
+	#Range: > 0
+	gridUsage = 2
 
 [diskDrive]
 	#The energy used by the Disk Drive
@@ -133,9 +133,6 @@
 	diskUsage = 1
 
 [storageBlock]
-	#The energy used by the 1k Storage Block
-	#Range: > 0
-	oneKUsage = 2
 	#The energy used by the 4k Storage Block
 	#Range: > 0
 	fourKUsage = 4
@@ -145,26 +142,29 @@
 	#The energy used by the 64k Storage Block
 	#Range: > 0
 	sixtyFourKUsage = 8
+	#The energy used by the 1k Storage Block
+	#Range: > 0
+	oneKUsage = 2
 	#The energy used by the Creative Storage Block
 	#Range: > 0
 	creativeUsage = 10
 
 [fluidStorageBlock]
-	#The energy used by the 64k Fluid Storage Block
-	#Range: > 0
-	sixtyFourKUsage = 2
-	#The energy used by the 256k Fluid Storage Block
-	#Range: > 0
-	twoHundredFiftySixKUsage = 4
 	#The energy used by the 1024k Fluid Storage Block
 	#Range: > 0
 	thousandTwentyFourKUsage = 6
 	#The energy used by the 4096k Fluid Storage Block
 	#Range: > 0
 	fourThousandNinetySixKUsage = 8
+	#The energy used by the 64k Fluid Storage Block
+	#Range: > 0
+	sixtyFourKUsage = 2
 	#The energy used by the Creative Fluid Storage Block
 	#Range: > 0
 	creativeUsage = 10
+	#The energy used by the 256k Fluid Storage Block
+	#Range: > 0
+	twoHundredFiftySixKUsage = 4
 
 [externalStorage]
 	#The energy used by the External Storage
@@ -220,15 +220,15 @@
 	usage = 2
 
 [wirelessTransmitter]
+	#The additional range per Range Upgrade in the Wireless Transmitter
+	#Range: > 0
+	rangePerUpgrade = 8
 	#The energy used by the Wireless Transmitter
 	#Range: > 0
 	usage = 8
 	#The base range of the Wireless Transmitter
 	#Range: > 0
 	baseRange = 16
-	#The additional range per Range Upgrade in the Wireless Transmitter
-	#Range: > 0
-	rangePerUpgrade = 8
 
 [storageMonitor]
 	#The energy used by the Storage Monitor

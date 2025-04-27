@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "42a788fde7f84410b0fd5b1d2e2e8472"
+	name: "los lokiyos"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		1EFBFB4C9C4DBD81: 1
+	}
+	started: {
+		1EFBFB4C9C4DBD81: 1745708746627L
+		0BB1A6609C85D492: 1745708746627L
+		0000000000000001: 1745708746627L
+		7A6CFA6F454BFF06: 1745708746627L
+	}
+	completed: {
+		1EFBFB4C9C4DBD81: 1745708746627L
+		7A6CFA6F454BFF06: 1745708746627L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

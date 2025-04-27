@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/roots": {
+    "criteria": {
+      "has_crimson_roots": "2025-04-27 00:01:06 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.general/turbine/ridiculite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-27 00:07:43 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/cracked_pink_terracotta_bricks_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:50 +0000"
@@ -470,6 +482,12 @@
   "botania:recipes/botania/green_pavement_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/kelp": {
+    "criteria": {
+      "has_kelp": "2025-04-26 23:51:24 +0000"
     },
     "done": true
   },
@@ -1253,6 +1271,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-27 00:00:12 +0000",
+      "minecraft:nether_wastes": "2025-04-27 00:01:43 +0000",
+      "minecraft:warped_forest": "2025-04-27 00:08:47 +0000"
+    },
+    "done": false
+  },
   "modularrouters:recipes/modularrouters/pushing_augment": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -1328,6 +1354,12 @@
   "cavesandcliffs:recipes/decorations/candle": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-26 23:39:42 +0000"
     },
     "done": true
   },
@@ -2663,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-27 00:00:37 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.modules/modules/chaotic_shield_capacity": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:55 +0000"
@@ -3236,6 +3274,12 @@
   "minecraft:recipes/extendedslabs/spruce_stairs_to_spruce_corner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-26 23:08:44 +0000"
     },
     "done": true
   },
@@ -6161,6 +6205,12 @@
     },
     "done": true
   },
+  "chaosawakens:root/bug_squasher": {
+    "criteria": {
+      "stink_bug": "2025-04-26 23:36:06 +0000"
+    },
+    "done": false
+  },
   "extendedslabs:recipes/extendedslabs/vertical_light_gray_stained_glass_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:00 +0000"
@@ -6989,6 +7039,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 23:55:57 +0000"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/sender_module_1_alt": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:45 +0000"
@@ -7582,6 +7638,12 @@
       "has_the_recipe": "2025-04-26 20:37:55 +0000"
     },
     "done": true
+  },
+  "chaosawakens:root/ent_destroyer": {
+    "criteria": {
+      "oak_ent": "2025-04-26 23:16:42 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/smelting/ingot_nickel_compat_immersiveengineering": {
     "criteria": {
@@ -9353,6 +9415,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/egg": {
+    "criteria": {
+      "has_egg": "2025-04-26 23:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/vertical_brick_slab_to_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -9866,6 +9934,12 @@
   "botania:recipes/botania/azulejo_1": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:38 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-04-27 00:00:11 +0000"
     },
     "done": true
   },
@@ -10814,6 +10888,12 @@
   "botania:recipes/botania/shimmerrock": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "sapphire": "2025-04-26 23:03:05 +0000"
     },
     "done": true
   },
@@ -12713,6 +12793,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-27 00:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:45 +0000"
@@ -13397,6 +13483,12 @@
     },
     "done": true
   },
+  "relics:obtain/midnight_robe": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 23:05:10 +0000"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/prismarine_crystals": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:58 +0000"
@@ -13901,6 +13993,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-26 23:48:32 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.food/golden_beetroot": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
@@ -14273,6 +14371,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-27 00:00:11 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.items/crystal_binder": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:56 +0000"
@@ -14420,6 +14524,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:46 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/infinity_ham": {
+    "criteria": {
+      "obtain_relic": "2025-04-26 23:08:50 +0000"
     },
     "done": true
   },
@@ -21533,6 +21643,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-26 23:22:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-26 21:51:16 +0000"
@@ -22856,6 +22972,12 @@
   "extendedslabs:recipes/extendedslabs/vertical_blue_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 23:04:02 +0000"
     },
     "done": true
   },
@@ -25063,6 +25185,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/mushrooms": {
+    "criteria": {
+      "has_mushroom": "2025-04-26 23:16:44 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/magenta_floating_flower": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:51 +0000"
@@ -25884,6 +26012,14 @@
       "has_the_recipe": "2025-04-26 20:37:54 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_leaves": "2025-04-26 23:55:07 +0000",
+      "yucca_flower": "2025-04-26 23:55:08 +0000",
+      "barrel_cactus": "2025-04-26 23:55:23 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
@@ -28009,6 +28145,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_ocean": "2025-04-26 23:08:04 +0000"
+    },
+    "done": false
+  },
   "extendedslabs:recipes/extendedslabs/vertical_gray_glazed_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:45 +0000"
@@ -28055,8 +28197,10 @@
       "minecraft:piglin_brute": "2025-04-26 22:44:40 +0000",
       "minecraft:creeper": "2025-04-26 20:59:17 +0000",
       "minecraft:evoker": "2025-04-26 22:02:38 +0000",
+      "minecraft:witch": "2025-04-26 23:25:14 +0000",
       "minecraft:husk": "2025-04-26 21:32:21 +0000",
       "minecraft:cave_spider": "2025-04-26 20:53:49 +0000",
+      "minecraft:piglin": "2025-04-27 00:05:58 +0000",
       "minecraft:enderman": "2025-04-26 20:58:56 +0000",
       "minecraft:silverfish": "2025-04-26 21:09:38 +0000",
       "minecraft:stray": "2025-04-26 21:25:50 +0000",
@@ -28314,6 +28458,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 23:47:40 +0000"
     },
     "done": true
   },
@@ -28590,6 +28740,12 @@
   "minecraft:recipes/building_blocks/vertical_polished_granite_slab_to_polished_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:55 +0000"
+    },
+    "done": true
+  },
+  "desert_upgrade:desert_upgrade_a": {
+    "criteria": {
+      "desert_upgrade_a": "2025-04-26 23:47:33 +0000"
     },
     "done": true
   },
@@ -31020,7 +31176,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-26 20:52:33 +0000",
-      "opened_chest": "2025-04-26 20:52:44 +0000"
+      "opened_chest": "2025-04-26 20:52:44 +0000",
+      "opened_cart": "2025-04-26 23:08:44 +0000"
     },
     "done": false
   },
@@ -31285,6 +31442,12 @@
   "cfm:recipes/cfm/crimson_blinds": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:54 +0000"
+    },
+    "done": true
+  },
+  "idas:witches_treestump": {
+    "criteria": {
+      "in_witches_treestump": "2025-04-26 23:24:59 +0000"
     },
     "done": true
   },
@@ -35830,6 +35993,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-27 00:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:37 +0000"
@@ -37243,6 +37412,12 @@
   "supplementaries:recipes/pulley_block": {
     "criteria": {
       "has_plank": "2025-04-26 20:50:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-27 00:10:38 +0000"
     },
     "done": true
   },
@@ -39913,6 +40088,12 @@
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 23:51:28 +0000"
     },
     "done": true
   },
@@ -42754,6 +42935,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_prairie_house": {
+    "criteria": {
+      "location0": "2025-04-26 23:19:51 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/chiseled_limestone_bricks_from_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:42 +0000"
@@ -43428,6 +43615,7 @@
   },
   "chaosawakens:root/super_carrot_vision": {
     "criteria": {
+      "enchanted_golden_carrot": "2025-04-26 23:22:34 +0000",
       "golden_carrot": "2025-04-26 20:52:43 +0000",
       "carrot": "2025-04-26 21:34:00 +0000"
     },
@@ -44054,6 +44242,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-27 00:00:11 +0000"
     },
     "done": true
   },
@@ -46729,13 +46923,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-26 23:39:11 +0000",
       "minecraft:savanna_plateau": "2025-04-26 22:19:33 +0000",
       "minecraft:beach": "2025-04-26 21:56:03 +0000",
       "minecraft:dark_forest": "2025-04-26 22:14:00 +0000",
       "minecraft:river": "2025-04-26 20:43:08 +0000",
+      "minecraft:swamp": "2025-04-26 23:44:45 +0000",
+      "atmospheric:rocky_dunes": "2025-04-26 23:55:20 +0000",
+      "atmospheric:dunes": "2025-04-26 23:54:44 +0000",
       "minecraft:cold_ocean": "2025-04-26 22:43:58 +0000",
       "minecraft:forest": "2025-04-26 20:38:02 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 22:02:28 +0000",
+      "minecraft:desert": "2025-04-26 23:47:33 +0000",
       "minecraft:wooded_hills": "2025-04-26 21:53:03 +0000",
       "minecraft:savanna": "2025-04-26 22:16:42 +0000",
       "minecraft:plains": "2025-04-26 20:43:15 +0000"

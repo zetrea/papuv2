@@ -1,5 +1,5 @@
-[20:31:53] [INFO ] Loaded script startup_scripts:custom_drops.js in 0.287 s
-[20:31:53] [INFO ] Loaded script startup_scripts:squidspawn.js in 0.002 s
-[20:31:53] [INFO ] Loaded script startup_scripts:startingitems.js in 0.012 s
-[20:31:54] [INFO ] Loaded script startup_scripts:custom_items.js in 0.02 s
-[20:31:54] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.811 s
+[22:59:30] [INFO ] Loaded script startup_scripts:custom_drops.js in 0.336 s
+[22:59:31] [INFO ] Loaded script startup_scripts:squidspawn.js in 0.002 s
+[22:59:31] [INFO ] Loaded script startup_scripts:startingitems.js in 0.012 s
+[22:59:31] [INFO ] Loaded script startup_scripts:custom_items.js in 0.002 s
+[22:59:31] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.823 s

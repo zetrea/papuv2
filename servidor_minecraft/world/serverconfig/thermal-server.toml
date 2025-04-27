@@ -115,8 +115,8 @@
 
 [Dynamos]
 
-	[Dynamos.Stirling]
-		#This sets the base power generation (RF/t) for the Stirling Dynamo.
+	[Dynamos.Magmatic]
+		#This sets the base power generation (RF/t) for the Magmatic Dynamo.
 		#Range: 10 ~ 200
 		"Base Power" = 40
 
@@ -125,13 +125,8 @@
 		#Range: 10 ~ 200
 		"Base Power" = 40
 
-	[Dynamos.Magmatic]
-		#This sets the base power generation (RF/t) for the Magmatic Dynamo.
-		#Range: 10 ~ 200
-		"Base Power" = 40
-
-	[Dynamos.Numismatic]
-		#This sets the base power generation (RF/t) for the Numismatic Dynamo.
+	[Dynamos.Gourmand]
+		#This sets the base power generation (RF/t) for the Gourmand Dynamo.
 		#Range: 10 ~ 200
 		"Base Power" = 40
 
@@ -140,17 +135,42 @@
 		#Range: 10 ~ 200
 		"Base Power" = 40
 
+	[Dynamos.Stirling]
+		#This sets the base power generation (RF/t) for the Stirling Dynamo.
+		#Range: 10 ~ 200
+		"Base Power" = 40
+
+	[Dynamos.Numismatic]
+		#This sets the base power generation (RF/t) for the Numismatic Dynamo.
+		#Range: 10 ~ 200
+		"Base Power" = 40
+
 	[Dynamos.Disenchantment]
 		#This sets the base power generation (RF/t) for the Disenchantment Dynamo.
 		#Range: 10 ~ 200
 		"Base Power" = 40
 
-	[Dynamos.Gourmand]
-		#This sets the base power generation (RF/t) for the Gourmand Dynamo.
-		#Range: 10 ~ 200
-		"Base Power" = 40
-
 [Machines]
+
+	[Machines.Centrifuge]
+		#This sets the base power consumption (RF/t) for the Centrifugal Separator.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
+	[Machines.Chiller]
+		#This sets the base power consumption (RF/t) for the Blast Chiller.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
+	[Machines.Smelter]
+		#This sets the base power consumption (RF/t) for the Induction Smelter.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
+	[Machines.Refinery]
+		#This sets the base power consumption (RF/t) for the Fractionating Still.
+		#Range: 1 ~ 200
+		"Base Power" = 20
 
 	[Machines.Furnace]
 		#This sets the base power consumption (RF/t) for the Redstone Furnace.
@@ -162,53 +182,18 @@
 		#Range: 1 ~ 200
 		"Base Power" = 20
 
-	[Machines.Pulverizer]
-		#This sets the base power consumption (RF/t) for the Pulverizer.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Smelter]
-		#This sets the base power consumption (RF/t) for the Induction Smelter.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Insolator]
-		#This sets the base power consumption (RF/t) for the Phytogenic Insolator.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Centrifuge]
-		#This sets the base power consumption (RF/t) for the Centrifugal Separator.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Press]
-		#This sets the base power consumption (RF/t) for the Multiservo Press.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
 	[Machines.Crucible]
 		#This sets the base power consumption (RF/t) for the Magma Crucible.
 		#Range: 1 ~ 200
 		"Base Power" = 80
 
-	[Machines.Chiller]
-		#This sets the base power consumption (RF/t) for the Blast Chiller.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Refinery]
-		#This sets the base power consumption (RF/t) for the Fractionating Still.
-		#Range: 1 ~ 200
-		"Base Power" = 20
-
-	[Machines.Pyrolyzer]
-		#This sets the base power consumption (RF/t) for the Pyrolyzer.
-		#Range: 1 ~ 200
-		"Base Power" = 5
-
 	[Machines.Bottler]
 		#This sets the base power consumption (RF/t) for the Fluid Encapsulator.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
+	[Machines.Pulverizer]
+		#This sets the base power consumption (RF/t) for the Pulverizer.
 		#Range: 1 ~ 200
 		"Base Power" = 20
 
@@ -217,8 +202,23 @@
 		#Range: 1 ~ 200
 		"Base Power" = 20
 
+	[Machines.Insolator]
+		#This sets the base power consumption (RF/t) for the Phytogenic Insolator.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
 	[Machines.Crafter]
 		#This sets the base power consumption (RF/t) for the Sequential Fabricator.
 		#Range: 1 ~ 200
 		"Base Power" = 20
+
+	[Machines.Press]
+		#This sets the base power consumption (RF/t) for the Multiservo Press.
+		#Range: 1 ~ 200
+		"Base Power" = 20
+
+	[Machines.Pyrolyzer]
+		#This sets the base power consumption (RF/t) for the Pyrolyzer.
+		#Range: 1 ~ 200
+		"Base Power" = 5
 

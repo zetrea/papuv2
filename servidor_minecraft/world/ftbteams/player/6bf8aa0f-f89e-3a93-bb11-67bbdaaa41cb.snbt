@@ -2,9 +2,7 @@
 	id: "6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb"
 	type: "player"
 	player_name: "AnbertitoKawaixX"
-	ranks: {
-		6bf8aa0f-f89e-3a93-bb11-67bbdaaa41cb: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "AnbertitoKawaixX"
