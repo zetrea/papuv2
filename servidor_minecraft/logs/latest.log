@@ -3829,3 +3829,87 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 09:06:04.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has unlocked Turtle Shell trinket
 [02May2025 09:06:27.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
 [02May2025 09:06:40.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Magneto trinket
+[02May2025 09:08:09.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:09:15.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has reached the goal [Skyslime Island]
+[02May2025 09:09:32.383] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/13580, l='ServerLevel[world]', x=229.24, y=68.94, z=71.20] died, message: 'Farmer was slain by Wasp'
+[02May2025 09:09:34.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:09:35.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has reached the goal [Skyslime Island]
+[02May2025 09:09:50.839] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[02May2025 09:09:52.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:09:58.888] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa moved wrongly!
+[02May2025 09:10:41.533] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 2.9404172165881732,-10.765158830978962,-3.1770167500303614
+[02May2025 09:10:47.324] [Worker-Main-60/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02May2025 09:10:52.490] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.543] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.544] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.544] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.544] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.544] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.545] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.558] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.558] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.558] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:52.558] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.355] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 4.303316396459991,-9.476595136396014,-2.9433659697735948
+[02May2025 09:10:53.696] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.714] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.714] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.717] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.717] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.717] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.717] [Worker-Main-60/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.767] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.767] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.768] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.768] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.769] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.770] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.770] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.770] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.770] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.770] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:53.885] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:54.399] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:54.400] [Worker-Main-96/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:10:54.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[02May2025 09:11:08.647] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:11:08.647] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[02May2025 09:11:11.203] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=375, y=39, z=-1378}
+[02May2025 09:11:22.582] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/15053, l='ServerLevel[world]', x=250.45, y=69.00, z=91.96] died, message: 'Cleric was slain by Wasp'
+[02May2025 09:11:37.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [The Secrets of Enchanting]
+[02May2025 09:11:39.381] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/15097, l='ServerLevel[world]', x=263.30, y=72.00, z=106.30] died, message: 'Nitwit was slain by Wasp'
+[02May2025 09:11:57.538] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=353, y=22, z=-1384} BlockPos{x=351, y=24, z=-1389}
+[02May2025 09:12:08.696] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[02May2025 09:12:08.697] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[02May2025 09:12:08.698] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[02May2025 09:12:10.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Quite the Renovation]
+[02May2025 09:12:16.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:12:50.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:13:58.542] [Worker-Main-5/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:14:25.378] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]
+[02May2025 09:14:31.186] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [396,29,-1288] away from [396,29,-1288]
+[02May2025 09:14:35.477] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]
+[02May2025 09:15:02.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:15:22.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Deja vu]
+[02May2025 09:15:25.177] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=549, y=14, z=-1420}
+[02May2025 09:15:36.252] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=549, y=14, z=-1420}
+[02May2025 09:15:39.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Be obedient]
+[02May2025 09:15:39.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Deja vu]
+[02May2025 09:15:46.819] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=577, y=15, z=-1419}
+[02May2025 09:15:50.727] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]
+[02May2025 09:16:02.622] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=577, y=15, z=-1419}
+[02May2025 09:16:11.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Little Muck]
+[02May2025 09:16:12.646] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=577, y=15, z=-1438}
+[02May2025 09:16:23.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Pied Piper]
+[02May2025 09:16:23.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [The Amazing Spider-Man]
+[02May2025 09:16:28.064] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=577, y=15, z=-1438}
+[02May2025 09:16:34.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Warrior Princess]
+[02May2025 09:16:51.324] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=556, y=15, z=-1478}
+[02May2025 09:17:08.305] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=556, y=15, z=-1478}
+[02May2025 09:17:15.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [This is a rain of stars]
+[02May2025 09:17:38.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:17:40.817] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=531, y=14, z=-1501}
+[02May2025 09:17:42.645] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=531, y=14, z=-1501}
+[02May2025 09:17:48.325] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=510, y=14, z=-1493}
+[02May2025 09:17:50.001] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=510, y=14, z=-1493}
+[02May2025 09:17:52.125] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]

@@ -14360,6 +14360,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-02 09:09:15 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/harvest_goddess_band": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:08 +0000"
@@ -21616,7 +21622,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-26 21:17:06 +0000"
+      "in_better_spider_dungeon": "2025-04-26 21:17:06 +0000",
+      "in_better_monster_room": "2025-05-02 09:12:10 +0000"
     },
     "done": false
   },
@@ -27837,7 +27844,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_hay_storage": "2025-04-26 22:01:40 +0000",
-      "entered_pirate_ship": "2025-04-26 22:01:52 +0000"
+      "entered_pirate_ship": "2025-04-26 22:01:52 +0000",
+      "entered_ruined_building": "2025-05-02 09:07:22 +0000"
     },
     "done": false
   },
@@ -28634,6 +28642,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-02 09:12:10 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activefluidport_forge": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:22 +0000"
@@ -28859,6 +28873,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-02 09:11:37 +0000"
     },
     "done": true
   },
@@ -32040,6 +32060,12 @@
   "xreliquary:recipes/building_blocks/uncrafting/packed_ice": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 09:05:22 +0000"
     },
     "done": true
   },
