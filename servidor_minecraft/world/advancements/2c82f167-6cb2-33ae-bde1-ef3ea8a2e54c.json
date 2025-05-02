@@ -43513,6 +43513,7 @@
   },
   "chaosawakens:root/super_carrot_vision": {
     "criteria": {
+      "golden_carrot": "2025-05-02 08:09:41 +0000",
       "carrot": "2025-04-26 22:12:33 +0000"
     },
     "done": false
