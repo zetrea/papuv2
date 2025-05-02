@@ -1274,7 +1274,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-26 23:57:23 +0000",
-      "minecraft:nether_wastes": "2025-04-26 23:57:20 +0000"
+      "minecraft:nether_wastes": "2025-04-26 23:57:20 +0000",
+      "minecraft:warped_forest": "2025-05-02 07:45:03 +0000"
     },
     "done": false
   },
@@ -2694,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-02 07:52:29 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.modules/modules/chaotic_shield_capacity": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:29 +0000"
@@ -2781,6 +2788,12 @@
   "create:recipes/create.palettes/paved_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-02 07:48:28 +0000"
     },
     "done": true
   },
@@ -19897,6 +19910,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-05-02 07:51:04 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -25061,6 +25080,12 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-05-02 07:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/warped_hyphae_corner_to_warped_hyphae_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:31 +0000"
@@ -28066,6 +28091,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-26 21:15:50 +0000",
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
+      "minecraft:ghast": "2025-05-02 07:49:01 +0000",
       "minecraft:hoglin": "2025-04-26 23:02:29 +0000",
       "minecraft:vindicator": "2025-04-26 22:02:30 +0000",
       "minecraft:magma_cube": "2025-04-26 22:50:37 +0000",
@@ -28077,6 +28103,7 @@
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
       "minecraft:husk": "2025-04-26 22:30:34 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
+      "minecraft:piglin": "2025-05-02 07:45:20 +0000",
       "minecraft:enderman": "2025-04-26 21:34:35 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:stray": "2025-04-26 21:25:59 +0000",
@@ -30194,6 +30221,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/rhinestone_pillar_from_rhinestone_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-02 07:48:28 +0000"
     },
     "done": true
   },
@@ -39762,6 +39795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-02 07:45:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:19 +0000"
@@ -45947,6 +45986,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_axe_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:33 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/warts": {
+    "criteria": {
+      "has_nether_warts": "2025-05-02 07:45:33 +0000"
     },
     "done": true
   },

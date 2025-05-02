@@ -3746,3 +3746,88 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 07:42:37.884] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
 [02May2025 07:42:38.694] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [02May2025 07:42:58.221] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 07:43:55.975] [Worker-Main-5/WARN] [ModernFix/]: The namespace dungeons_plus contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02May2025 07:44:15.206] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=98, y=55, z=172} BlockPos{x=97, y=54, z=170}
+[02May2025 07:44:15.246] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=98, y=55, z=172} BlockPos{x=97, y=54, z=170}
+[02May2025 07:44:15.295] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=98, y=55, z=173} BlockPos{x=97, y=54, z=170}
+[02May2025 07:45:24.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:45:31.943] [Netty Epoll Server IO #2/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[02May2025 07:45:31.976] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[02May2025 07:45:31.982] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[02May2025 07:45:38.348] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa lost connection: You logged in from another location
+[02May2025 07:45:38.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa left the game
+[02May2025 07:45:38.520] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@629264fc
+[02May2025 07:45:38.551] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02May2025 07:45:39.014] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:55051] logged in with entity id 7359 at (128.81151651795298, 53.0, 236.30282078729698)
+[02May2025 07:45:39.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[02May2025 07:45:39.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[02May2025 07:45:39.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[02May2025 07:45:39.017] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[02May2025 07:45:39.018] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[02May2025 07:45:39.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[02May2025 07:45:39.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[02May2025 07:45:39.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[02May2025 07:46:21.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa tried to swim in lava
+[02May2025 07:46:26.055] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 07:46:26.056] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02May2025 07:46:49.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 167.5, 26.0, 239.5]
+[02May2025 07:46:52.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa tried to swim in lava
+[02May2025 07:46:53.603] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 07:46:53.604] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02May2025 07:46:54.033] [Worker-Main-6/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[02May2025 07:46:54.034] [Worker-Main-6/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[02May2025 07:46:54.071] [Worker-Main-6/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[02May2025 07:46:54.071] [Worker-Main-6/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[02May2025 07:46:56.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 07:48:28.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Ol' Betsy]
+[02May2025 07:48:28.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Take Aim]
+[02May2025 07:49:20.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has reached the goal [Blood Island]
+[02May2025 07:49:50.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:51:04.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:51:06.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Blackstone'/10435, l='ServerLevel[world]', x=179.63, y=91.53, z=253.71]
+[02May2025 07:51:06.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Blackstone'/10435, l='ServerLevel[world]', x=179.63, y=91.53, z=253.71]
+[02May2025 07:51:06.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cracked Polished Blackstone Bricks'/10437, l='ServerLevel[world]', x=175.46, y=93.63, z=258.59]
+[02May2025 07:51:06.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cracked Polished Blackstone Bricks'/10437, l='ServerLevel[world]', x=175.46, y=93.63, z=258.59]
+[02May2025 07:51:06.285] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Blackstone'/10439, l='ServerLevel[world]', x=178.47, y=94.29, z=258.61]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Polished Blackstone'/10439, l='ServerLevel[world]', x=178.47, y=94.29, z=258.61]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10440, l='ServerLevel[world]', x=179.68, y=89.69, z=260.68]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Netherrack'/10440, l='ServerLevel[world]', x=179.68, y=89.69, z=260.68]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Blackstone'/10441, l='ServerLevel[world]', x=178.46, y=91.57, z=258.53]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobbled Blackstone'/10441, l='ServerLevel[world]', x=178.46, y=91.57, z=258.53]
+[02May2025 07:51:06.286] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chiseled Nether Bricks'/10442, l='ServerLevel[world]', x=179.68, y=93.36, z=256.54]
+[02May2025 07:51:06.287] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chiseled Nether Bricks'/10442, l='ServerLevel[world]', x=179.68, y=93.36, z=256.54]
+[02May2025 07:51:06.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa blew up
+[02May2025 07:51:10.071] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 07:51:10.071] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02May2025 07:51:16.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 167.5, 26.0, 239.5]
+[02May2025 07:51:18.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa tried to swim in lava
+[02May2025 07:51:20.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 07:51:20.665] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 07:51:20.665] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[02May2025 07:51:23.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 07:52:29.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Into Fire]
+[02May2025 07:53:00.392] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[02May2025 07:53:22.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 07:53:36.108] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved wrongly!
+[02May2025 07:54:32.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 07:54:57.646] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved wrongly!
+[02May2025 07:55:29.508] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=336, y=85, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:29.562] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=336, y=84, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:29.606] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=336, y=84, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:29.655] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=338, y=84, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:29.759] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=338, y=83, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:29.765] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=338, y=83, z=-18} BlockPos{x=335, y=85, z=-18}
+[02May2025 07:55:31.110] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=333, y=85, z=-19} BlockPos{x=335, y=85, z=-19}
+[02May2025 07:55:31.159] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=333, y=85, z=-19} BlockPos{x=335, y=85, z=-19}
+[02May2025 07:55:31.275] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=332, y=85, z=-18} BlockPos{x=335, y=85, z=-19}
+[02May2025 07:55:31.283] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=332, y=85, z=-18} BlockPos{x=335, y=85, z=-19}
+[02May2025 07:55:37.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:56:45.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:57:48.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 07:58:30.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 08:01:22.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:01:28.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by Ignis
+[02May2025 08:01:28.138] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[02May2025 08:01:29.350] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 08:01:29.351] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02May2025 08:01:36.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 188.5, 78.0, 402.5]

@@ -19896,6 +19896,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-05-02 07:50:58 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:18 +0000"
@@ -23250,6 +23256,8 @@
       "cooked_porkchop": "2025-04-27 00:11:36 +0000",
       "cooked_beef": "2025-04-26 22:57:23 +0000",
       "baked_potato": "2025-04-26 21:53:23 +0000",
+      "beef": "2025-05-02 07:55:53 +0000",
+      "porkchop": "2025-05-02 07:55:46 +0000",
       "apple": "2025-04-26 21:33:34 +0000",
       "bread": "2025-04-26 21:23:17 +0000",
       "golden_apple": "2025-04-26 21:20:11 +0000",
@@ -28105,6 +28113,7 @@
       "minecraft:wither_skeleton": "2025-04-26 21:20:28 +0000",
       "minecraft:husk": "2025-04-26 23:41:29 +0000",
       "minecraft:cave_spider": "2025-04-26 21:18:29 +0000",
+      "minecraft:piglin": "2025-05-02 07:56:12 +0000",
       "minecraft:enderman": "2025-04-26 20:59:00 +0000",
       "minecraft:stray": "2025-04-26 21:37:09 +0000",
       "minecraft:vex": "2025-04-26 23:50:54 +0000",
@@ -39802,6 +39811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-02 07:43:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:18 +0000"
@@ -46007,6 +46022,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_axe_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:33 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/warts": {
+    "criteria": {
+      "has_nether_warts": "2025-05-02 07:43:55 +0000"
     },
     "done": true
   },
