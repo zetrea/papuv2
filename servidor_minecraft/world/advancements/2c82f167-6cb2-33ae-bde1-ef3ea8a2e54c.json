@@ -5935,6 +5935,12 @@
     },
     "done": true
   },
+  "relics:obtain/camouflage_ring": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:26:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/smelting/metamorphic_mountain_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:22 +0000"
@@ -28152,7 +28158,8 @@
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:stray": "2025-04-26 21:25:59 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000",
-      "minecraft:drowned": "2025-04-26 23:50:12 +0000"
+      "minecraft:drowned": "2025-04-26 23:50:12 +0000",
+      "minecraft:zombie_villager": "2025-05-02 09:33:51 +0000"
     },
     "done": false
   },
@@ -29623,6 +29630,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/green_security_manager": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:33 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/slime_heart": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:27:07 +0000"
     },
     "done": true
   },
@@ -36848,6 +36861,12 @@
   "minecraft:recipes/extendedslabs/cherry_stairs_to_cherry_corner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:26 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_50": {
+    "criteria": {
+      "hats_unlocked": "2025-05-02 09:29:21 +0000"
     },
     "done": true
   },

@@ -25584,6 +25584,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-02 09:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:27 +0000"
@@ -30452,6 +30458,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-05-02 09:28:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:17 +0000"
@@ -32232,6 +32244,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-05-02 09:28:32 +0000"
     },
     "done": true
   },
@@ -37254,6 +37272,12 @@
   "extendedslabs:recipes/extendedslabs/black_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:25 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/hats_unlocked_25": {
+    "criteria": {
+      "hats_unlocked": "2025-05-02 09:28:15 +0000"
     },
     "done": true
   },
