@@ -3766,3 +3766,25 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 08:36:36.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> EX´ÑPTP
 [02May2025 08:36:53.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> con un boton
 [02May2025 08:36:55.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> se ordena
+[02May2025 08:37:30.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Bottomless bag]
+[02May2025 08:37:54.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Who respects the bees...]
+[02May2025 08:39:26.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Santa's bag]
+[02May2025 08:44:37.179] [Netty Epoll Server IO #4/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[02May2025 08:44:37.208] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[02May2025 08:44:37.212] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[02May2025 08:44:42.599] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@2f1e14f
+[02May2025 08:44:43.636] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa lost connection: You logged in from another location
+[02May2025 08:44:43.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa left the game
+[02May2025 08:44:43.828] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5a6440e8
+[02May2025 08:44:43.864] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[02May2025 08:44:44.180] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:36207] logged in with entity id 6121 at (246.62093615125298, 72.9375, 42.580428489478265)
+[02May2025 08:44:44.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[02May2025 08:44:44.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[02May2025 08:44:44.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[02May2025 08:44:44.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[02May2025 08:44:44.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[02May2025 08:44:44.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[02May2025 08:44:44.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[02May2025 08:44:44.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[02May2025 08:45:28.922] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@25f9a6f3
+[02May2025 08:45:37.783] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@2f1e14f

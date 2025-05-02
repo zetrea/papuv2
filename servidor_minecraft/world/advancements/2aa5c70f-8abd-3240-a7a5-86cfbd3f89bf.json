@@ -11334,6 +11334,12 @@
     },
     "done": true
   },
+  "relics:obtain/spore_sack": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 08:39:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:15 +0000"
@@ -16485,6 +16491,12 @@
   "minecraft:recipes/extendedslabs/red_sandstone_slab_to_vertical_red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:28 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/fragrant_flower": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 08:37:54 +0000"
     },
     "done": true
   },
@@ -31957,6 +31969,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-02 08:34:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cosmetic_devil_tail": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:23 +0000"
@@ -34126,6 +34144,12 @@
   "botania:recipes/botania/manasteel_hoe": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:22 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/squire_bag": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 08:37:30 +0000"
     },
     "done": true
   },
@@ -43188,6 +43212,12 @@
   "botania:recipes/botania/lens_bounce": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-02 08:34:46 +0000"
     },
     "done": true
   },
