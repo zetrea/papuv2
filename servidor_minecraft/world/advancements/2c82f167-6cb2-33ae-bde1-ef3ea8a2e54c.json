@@ -3979,6 +3979,12 @@
     },
     "done": true
   },
+  "relics:obtain/out_runner": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:57:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
@@ -4888,6 +4894,12 @@
   "cavesandcliffs:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:21 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-02 09:53:35 +0000"
     },
     "done": true
   },
@@ -11453,6 +11465,12 @@
   "extendedslabs:recipes/extendedslabs/vertical_brown_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/flowers": {
+    "criteria": {
+      "has_sunflower": "2025-05-02 09:53:35 +0000"
     },
     "done": true
   },
@@ -22812,6 +22830,12 @@
   "blue_skies:recipes/decorations/jukebox_compat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 09:53:26 +0000"
     },
     "done": true
   },
@@ -46914,6 +46938,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-02 09:53:04 +0000",
       "atmospheric:rainforest": "2025-04-26 23:43:19 +0000",
       "minecraft:birch_forest": "2025-04-26 22:11:48 +0000",
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
