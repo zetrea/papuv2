@@ -3732,3 +3732,37 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 08:24:59.082] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [02May2025 08:25:48.439] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@25f9a6f3
 [02May2025 08:26:36.088] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 08:28:17.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:29:04.383] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa moved wrongly!
+[02May2025 08:32:27.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:33:19.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was burnt to a crisp whilst fighting 17igvnaciojaja
+[02May2025 08:33:20.818] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 08:33:20.819] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[02May2025 08:33:26.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:33:30.380] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: Disconnected
+[02May2025 08:33:30.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game
+[02May2025 08:34:46.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [How'd You Get This?]
+[02May2025 08:34:46.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [It Certainly Seems Rare...]
+[02May2025 08:34:51.791] [Netty Epoll Server IO #5/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[02May2025 08:34:51.825] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[02May2025 08:34:51.832] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[02May2025 08:34:58.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@163e4b38
+[02May2025 08:34:58.811] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.148.27.224:38367] logged in with entity id 4595 at (236.2052000446938, 74.0, 39.064879862639636)
+[02May2025 08:34:58.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[02May2025 08:34:58.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[02May2025 08:34:58.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[02May2025 08:34:58.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[02May2025 08:34:58.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[02May2025 08:34:58.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[02May2025 08:34:58.818] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[02May2025 08:34:58.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[02May2025 08:36:01.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> atras....
+[02May2025 08:36:09.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> exploto solo
+[02May2025 08:36:14.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> TENGOG
+[02May2025 08:36:17.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> CLIP
+[02May2025 08:36:24.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> EXPLOTA SOLO
+[02May2025 08:36:29.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> CREO QUE ESS MI TRINKED
+[02May2025 08:36:33.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> PTRA VEZ
+[02May2025 08:36:36.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> EX´ÑPTP
+[02May2025 08:36:53.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> con un boton
+[02May2025 08:36:55.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <zetreaa> se ordena

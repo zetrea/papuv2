@@ -5203,6 +5203,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/netherite": {
+    "criteria": {
+      "has_netherite": "2025-05-02 08:27:05 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/neptunium_fishing_rod": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -28400,6 +28406,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_rainbow_eucalyptus": {
+    "criteria": {
+      "has_plank": "2025-05-02 08:28:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
@@ -45231,6 +45243,12 @@
   "create:recipes/create.base/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_rainbow_eucalyptus": {
+    "criteria": {
+      "has_plank": "2025-05-02 08:28:14 +0000"
     },
     "done": true
   },
