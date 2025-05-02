@@ -3788,3 +3788,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 08:44:44.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
 [02May2025 08:45:28.922] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@25f9a6f3
 [02May2025 08:45:37.783] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@2f1e14f
+[02May2025 08:53:00.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has completed the challenge [He Wasn't So Strong]
+[02May2025 08:54:52.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Yamato v0.5]
+[02May2025 08:55:39.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa was slain by 17igvnaciojaja using    [Molten Diamond Sword]
+[02May2025 08:55:40.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 08:55:40.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02May2025 08:55:46.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 253.5, 51.0, 46.5]
+[02May2025 08:56:15.602] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 08:56:50.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
