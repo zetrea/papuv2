@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/roots": {
+    "criteria": {
+      "has_crimson_roots": "2025-05-02 07:39:35 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.general/turbine/ridiculite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:09 +0000"
