@@ -6102,6 +6102,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/raw_fish": {
+    "criteria": {
+      "has_raw_fish": "2025-05-02 08:21:03 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/casing_recycle": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:30 +0000"
