@@ -3913,3 +3913,38 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 09:17:48.325] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=510, y=14, z=-1493}
 [02May2025 09:17:50.001] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=510, y=14, z=-1493}
 [02May2025 09:17:52.125] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]
+[02May2025 09:18:08.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa moved too quickly! -743.3665303479156,66.0,1496.041537061704
+[02May2025 09:18:16.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:18:44.663] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=486, y=14, z=-1501}
+[02May2025 09:18:49.041] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=486, y=14, z=-1501}
+[02May2025 09:18:50.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Distance slap]
+[02May2025 09:19:07.377] [Ice and Fire Pathfinding Worker #0/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding from [404,85,-1517] away from [404,85,-1517]
+[02May2025 09:19:12.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:19:14.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:19:35.166] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=589, y=15, z=-1496}
+[02May2025 09:20:03.804] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=531, y=14, z=-1474}
+[02May2025 09:20:12.753] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=611, y=14, z=-1464}
+[02May2025 09:20:19.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:20:22.796] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=611, y=14, z=-1464}
+[02May2025 09:20:34.204] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=589, y=15, z=-1496}
+[02May2025 09:20:38.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Warrior Princess]
+[02May2025 09:20:46.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:20:59.361] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=591, y=14, z=-1466}
+[02May2025 09:21:05.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:21:09.165] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=600, y=14, z=-1472}
+[02May2025 09:21:09.260] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=591, y=14, z=-1466}
+[02May2025 09:21:21.302] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=600, y=14, z=-1472}
+[02May2025 09:21:29.674] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:21:29.674] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[02May2025 09:22:01.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:22:29.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:23:50.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:25:47.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:26:11.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Stealth boy]
+[02May2025 09:26:37.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:26:57.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:27:07.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [That time I got reincarnated as a slime]
+[02May2025 09:28:13.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Race Against The Clock]
+[02May2025 09:28:15.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Hat Critic]
+[02May2025 09:28:18.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:28:20.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Ender Distancing]

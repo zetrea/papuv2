@@ -3954,6 +3954,12 @@
     },
     "done": true
   },
+  "relics:obtain/out_runner": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_picket_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:11 +0000"
@@ -4389,6 +4395,12 @@
   "chaosawakens:recipes/chaosawakens.blocks/cracked_red_terracotta_brick_wall_from_cracked_red_terracotta_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:21 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/magic_mirror": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:15:22 +0000"
     },
     "done": true
   },
@@ -17028,6 +17040,12 @@
     },
     "done": true
   },
+  "relics:obtain/enders_hand": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:18:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:17 +0000"
@@ -23206,6 +23224,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:15 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/stellar_catalyst": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:17:15 +0000"
     },
     "done": true
   },
@@ -39645,6 +39669,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/glass_bottle": {
+    "criteria": {
+      "has_bottle": "2025-05-02 09:16:27 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/botania/modified_gaia_pylon_with_alfsteel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:15 +0000"
@@ -40646,6 +40676,12 @@
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:09 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/space_dissector": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:20:38 +0000"
     },
     "done": true
   },

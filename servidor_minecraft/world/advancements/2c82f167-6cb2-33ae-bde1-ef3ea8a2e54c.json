@@ -4411,6 +4411,12 @@
     },
     "done": true
   },
+  "relics:obtain/magic_mirror": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:15:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/chemthrower": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
@@ -26617,6 +26623,12 @@
     },
     "done": true
   },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:15:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/redstone_spreader": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:21 +0000"
@@ -30610,6 +30622,12 @@
     },
     "done": true
   },
+  "relics:obtain/horse_flute": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:16:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_scoria_bricks_slab_from_fancy_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:24 +0000"
@@ -34574,6 +34592,12 @@
   "minecraft:recipes/extendedslabs/vertical_yellow_wool_slab_to_yellow_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:08 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spider_necklace": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:16:23 +0000"
     },
     "done": true
   },
@@ -40624,6 +40648,12 @@
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:08 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/space_dissector": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:16:34 +0000"
     },
     "done": true
   },
