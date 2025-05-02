@@ -10854,6 +10854,12 @@
     },
     "done": true
   },
+  "relics:obtain/shadow_glaive": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 08:54:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_alu_scaffolding_grate_top": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:26 +0000"
@@ -26628,6 +26634,12 @@
     },
     "done": true
   },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2025-05-02 09:02:39 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/redstone_spreader": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:21 +0000"
@@ -28140,6 +28152,7 @@
       "minecraft:piglin": "2025-05-02 07:56:12 +0000",
       "minecraft:enderman": "2025-04-26 20:59:00 +0000",
       "minecraft:stray": "2025-04-26 21:37:09 +0000",
+      "minecraft:silverfish": "2025-05-02 09:01:30 +0000",
       "minecraft:vex": "2025-04-26 23:50:54 +0000",
       "minecraft:zombie": "2025-04-26 20:52:27 +0000",
       "minecraft:drowned": "2025-04-26 23:48:04 +0000"

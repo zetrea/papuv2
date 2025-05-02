@@ -29,6 +29,8 @@
 		68AC997F69C0277D: 1746175962728L
 		000CF084DB178DD2: 1746175962728L
 	}
-	claimed_rewards: { }
+	claimed_rewards: {
+		"2aa5c70f8abd3240a7a586cfbd3f89bf:79B060DAD51B71AA": 1746176242763L
+	}
 	pinned_quests: [ ]
 }

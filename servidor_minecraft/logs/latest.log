@@ -3796,3 +3796,36 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 08:55:46.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 253.5, 51.0, 46.5]
 [02May2025 08:56:15.602] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [02May2025 08:56:50.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:58:52.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 08:59:29.882] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/216, l='ServerLevel[world]', x=98.96, y=67.00, z=133.52] died, message: 'Villager was slain by Mutant Zombie'
+[02May2025 09:00:42.082] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:00:42.082] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLamprey from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[02May2025 09:01:06.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Chest Slayer]
+[02May2025 09:01:37.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:01:54.900] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=118, y=14, z=71}
+[02May2025 09:01:57.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:01:59.426] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=118, y=14, z=71}
+[02May2025 09:02:18.894] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=84, y=15, z=62}
+[02May2025 09:02:39.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Be obedient]
+[02May2025 09:03:06.174] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:03:06.358] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:03:07.449] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:03:58.032] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -1.4243232344220473,-11.641023820722054,-2.3349295703960706
+[02May2025 09:03:59.590] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -1.2674121314299782,-11.694736062225488,-1.7808605578632069
+[02May2025 09:03:59.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[02May2025 09:04:03.593] [Worker-Main-60/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:04:05.008] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=424, y=34, z=-1300} but found not block entity block Block{minecraft:stone} at location
+[02May2025 09:04:05.008] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=424, y=34, z=-1300}
+[02May2025 09:04:05.964] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -0.5720701430427653,-9.94485573618313,-4.320833877167615
+[02May2025 09:04:21.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[02May2025 09:04:24.513] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[02May2025 09:04:26.183] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[02May2025 09:04:26.183] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[02May2025 09:04:26.183] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[02May2025 09:04:26.183] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[02May2025 09:04:32.962] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3c3c26a2
+[02May2025 09:04:33.200] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved wrongly!
+[02May2025 09:05:18.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:06:04.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has unlocked Turtle Shell trinket
+[02May2025 09:06:27.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[02May2025 09:06:40.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Magneto trinket
