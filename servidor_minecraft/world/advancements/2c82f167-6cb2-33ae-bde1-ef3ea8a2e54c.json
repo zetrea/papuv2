@@ -28097,7 +28097,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_swamp": "2025-04-26 23:46:18 +0000"
+      "in_mineshaft_swamp": "2025-04-26 23:46:18 +0000",
+      "in_mineshaft_dark_forest": "2025-05-02 09:45:47 +0000"
     },
     "done": false
   },

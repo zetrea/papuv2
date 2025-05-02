@@ -3979,3 +3979,28 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02May2025 09:37:35.305] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=718, y=-3, z=-1150}
 [02May2025 09:37:35.305] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=716, y=-3, z=-1151} but found not block entity block Block{minecraft:air} at location
 [02May2025 09:37:35.306] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=716, y=-3, z=-1151}
+[02May2025 09:43:44.339] [Netty Epoll Server IO #4/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[02May2025 09:43:44.367] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.3995% of max allowed vanilla size
+[02May2025 09:43:44.372] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.2464% of max allowed vanilla size
+[02May2025 09:43:50.935] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa lost connection: You logged in from another location
+[02May2025 09:43:50.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa left the game
+[02May2025 09:43:51.323] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: zetreaa[/127.202.165.85:37713] logged in with entity id 26879 at (678.380597649899, 10.0, -1255.4196279948103)
+[02May2025 09:43:51.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zetreaa
+[02May2025 09:43:51.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zetreaa
+[02May2025 09:43:51.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zetreaa
+[02May2025 09:43:51.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zetreaa
+[02May2025 09:43:51.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zetreaa
+[02May2025 09:43:51.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zetreaa
+[02May2025 09:43:51.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zetreaa
+[02May2025 09:43:51.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa joined the game
+[02May2025 09:45:44.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[02May2025 09:46:34.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja was slain by zetreaa
+[02May2025 09:46:36.221] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[02May2025 09:46:36.221] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[02May2025 09:46:51.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to 702.5, 14.0, -1317.5]
+[02May2025 09:47:24.336] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=887, y=15, z=-1379}
+[02May2025 09:47:24.336] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=889, y=19, z=-1374}
+[02May2025 09:47:24.336] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=881, y=14, z=-1371}
+[02May2025 09:48:35.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has unlocked Tha Cloud trinket
+[02May2025 09:48:53.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=881, y=30, z=-1125} but found not block entity block Block{minecraft:stone} at location
+[02May2025 09:48:53.300] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=881, y=30, z=-1125}

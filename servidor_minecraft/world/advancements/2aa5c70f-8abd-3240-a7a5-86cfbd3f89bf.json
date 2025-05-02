@@ -12330,6 +12330,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-02 09:34:58 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:09 +0000"
@@ -28134,6 +28140,12 @@
       "has_the_recipe": "2025-04-26 20:37:11 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_dark_forest": "2025-05-02 09:42:56 +0000"
+    },
+    "done": false
   },
   "extendedslabs:recipes/extendedslabs/vertical_gray_glazed_terracotta_slab": {
     "criteria": {
