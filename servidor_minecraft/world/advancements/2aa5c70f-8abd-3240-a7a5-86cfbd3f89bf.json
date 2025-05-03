@@ -1815,9 +1815,11 @@
   "outer_end:end/explore_end": {
     "criteria": {
       "find_minecraft:end_midlands": "2025-05-03 07:56:57 +0000",
+      "find_minecraft:end_barrens": "2025-05-03 07:58:39 +0000",
       "find_outer_end:crystal_crag": "2025-05-03 07:56:54 +0000",
       "find_minecraft:end_highlands": "2025-05-03 07:57:10 +0000",
       "find_minecraft:the_end": "2025-05-03 07:49:03 +0000",
+      "find_outer_end:azure_forest": "2025-05-03 07:59:36 +0000",
       "find_minecraft:small_end_islands": "2025-05-03 07:49:00 +0000"
     },
     "done": false
@@ -2827,6 +2829,12 @@
   "create:recipes/create.palettes/paved_granite_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-03 08:07:13 +0000"
     },
     "done": true
   },
@@ -9175,6 +9183,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-03 08:04:11 +0000"
     },
     "done": true
   },
@@ -20256,6 +20270,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-05-03 08:06:05 +0000",
       "in_pyramid_nether": "2025-05-02 07:50:58 +0000"
     },
     "done": false
@@ -22856,6 +22871,12 @@
   "botania:recipes/botania/petal_black": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:20 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/delay_ring": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 08:00:59 +0000"
     },
     "done": true
   },
@@ -28513,6 +28534,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_end": "2025-05-03 08:01:49 +0000",
       "in_mineshaft_dark_forest": "2025-05-02 09:42:56 +0000"
     },
     "done": false
@@ -28567,6 +28589,7 @@
       "minecraft:witch": "2025-04-26 21:17:27 +0000",
       "minecraft:wither_skeleton": "2025-04-26 21:20:28 +0000",
       "minecraft:husk": "2025-04-26 23:41:29 +0000",
+      "minecraft:shulker": "2025-05-03 08:04:09 +0000",
       "minecraft:cave_spider": "2025-04-26 21:18:29 +0000",
       "minecraft:piglin": "2025-05-02 07:56:12 +0000",
       "minecraft:enderman": "2025-04-26 20:59:00 +0000",
@@ -42676,6 +42699,12 @@
     },
     "done": true
   },
+  "tconstruct:world/ender_island": {
+    "criteria": {
+      "found_island": "2025-05-03 08:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:23 +0000"
@@ -47639,6 +47668,7 @@
       "minecraft:mountains": "2025-05-03 07:12:58 +0000",
       "minecraft:taiga": "2025-05-03 07:07:06 +0000",
       "minecraft:birch_forest": "2025-05-03 07:02:52 +0000",
+      "minecraft:bamboo_jungle": "2025-05-03 08:00:11 +0000",
       "minecraft:beach": "2025-04-26 22:44:32 +0000",
       "minecraft:dark_forest": "2025-04-26 22:23:27 +0000",
       "minecraft:river": "2025-04-26 22:44:01 +0000",

@@ -4382,3 +4382,39 @@ java.lang.RuntimeException: StructurePiece "net.minecraft.world.gen.feature.stru
 [03May2025 08:00:59.921] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1496, y=139, z=-462}
 [03May2025 08:01:26.818] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1494, y=139, z=-458}
 [03May2025 08:01:48.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 08:02:16.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[03May2025 08:02:45.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 08:02:45.954] [Worker-Main-5/WARN] [ModernFix/]: The namespace outer_end contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 08:03:03.476] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/52665, l='ServerLevel[world]', x=-1834.28, y=58.00, z=-738.34]
+[03May2025 08:03:03.477] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AreaEffectCloudEntity['Area Effect Cloud'/52665, l='ServerLevel[world]', x=-1834.28, y=58.00, z=-738.34]
+[03May2025 08:04:11.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has reached the goal [Sky's the Limit]
+[03May2025 08:04:12.821] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1818, y=91, z=-560}
+[03May2025 08:04:21.674] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1818, y=91, z=-558}
+[03May2025 08:04:42.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has completed the challenge [This better be rare or better...]
+[03May2025 08:05:14.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [A Ruined End]
+[03May2025 08:06:00.438] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1744, y=59, z=-1481} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1744, y=59, z=-1481} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.536] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1743, y=58, z=-1481} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.587] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=58, z=-1481} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.642] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=58, z=-1480} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.690] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=58, z=-1480} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.739] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=57, z=-1480} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.793] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=57, z=-1480} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.837] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=56, z=-1479} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.891] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=56, z=-1479} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:06:00.938] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=58, z=-1480} BlockPos{x=-1744, y=59, z=-1482}
+[03May2025 08:07:13.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Take Aim]
+[03May2025 08:10:38.907] [Netty Epoll Server IO #0/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[03May2025 08:10:38.934] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.6764% of max allowed vanilla size
+[03May2025 08:10:38.939] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.5323% of max allowed vanilla size
+[03May2025 08:10:45.420] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: You logged in from another location
+[03May2025 08:10:45.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game
+[03May2025 08:10:45.495] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.122.21.137:51661] logged in with entity id 55598 at (-1195.1326886399288, 62.0, -1603.300000011921)
+[03May2025 08:10:45.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[03May2025 08:10:45.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[03May2025 08:10:45.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[03May2025 08:10:45.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[03May2025 08:10:45.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[03May2025 08:10:45.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[03May2025 08:10:45.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[03May2025 08:10:45.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game

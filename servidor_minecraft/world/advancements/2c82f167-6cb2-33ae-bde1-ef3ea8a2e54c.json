@@ -1235,6 +1235,12 @@
     },
     "done": true
   },
+  "dungeons_plus:end/find_end_ruins": {
+    "criteria": {
+      "structure": "2025-05-03 08:05:14 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -1834,8 +1840,12 @@
   "outer_end:end/explore_end": {
     "criteria": {
       "find_minecraft:end_midlands": "2025-05-03 07:56:50 +0000",
+      "find_minecraft:end_barrens": "2025-05-03 07:58:37 +0000",
+      "find_outer_end:crystal_crag": "2025-05-03 08:07:11 +0000",
       "find_minecraft:end_highlands": "2025-05-03 07:57:01 +0000",
-      "find_minecraft:the_end": "2025-05-03 07:48:59 +0000"
+      "find_minecraft:the_end": "2025-05-03 07:48:59 +0000",
+      "find_outer_end:azure_forest": "2025-05-03 08:02:29 +0000",
+      "find_minecraft:small_end_islands": "2025-05-03 07:59:57 +0000"
     },
     "done": false
   },
@@ -6540,7 +6550,8 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "magma_cream": "2025-04-26 22:50:50 +0000",
-      "earth": "2025-04-26 23:55:39 +0000"
+      "earth": "2025-04-26 23:55:39 +0000",
+      "ender": "2025-05-03 08:04:49 +0000"
     },
     "done": false
   },
@@ -17285,6 +17296,12 @@
     },
     "done": true
   },
+  "hats:hats/kill_boss_with_hat": {
+    "criteria": {
+      "code_trigger": "2025-05-03 08:04:42 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/polished_limestone_stairs_from_polished_limestone_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
@@ -25936,6 +25953,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-05-03 07:58:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:28 +0000"
@@ -28521,6 +28544,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_swamp": "2025-04-26 23:46:18 +0000",
+      "in_mineshaft_end": "2025-05-03 08:01:40 +0000",
       "in_mineshaft_dark_forest": "2025-05-02 09:45:47 +0000"
     },
     "done": false
@@ -32540,6 +32564,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/chorus": {
+    "criteria": {
+      "has_chorus_fruit": "2025-05-03 08:01:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flax_block": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -32717,6 +32747,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-05-03 07:58:57 +0000"
     },
     "done": true
   },
@@ -47639,6 +47675,7 @@
       "minecraft:taiga": "2025-05-02 09:53:04 +0000",
       "atmospheric:rainforest": "2025-04-26 23:43:19 +0000",
       "minecraft:birch_forest": "2025-04-26 22:11:48 +0000",
+      "minecraft:bamboo_jungle": "2025-05-03 08:02:31 +0000",
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
       "minecraft:dark_forest": "2025-04-26 22:13:39 +0000",
       "minecraft:river": "2025-04-26 20:36:46 +0000",
