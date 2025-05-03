@@ -3776,3 +3776,33 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03May2025 06:47:52.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
 [03May2025 06:48:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
 [03May2025 06:48:16.926] [Worker-Main-5/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 06:48:52.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:49:03.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[03May2025 06:49:05.025] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -0.46164087867967396,-10.482443903614396,-3.5180643586763836
+[03May2025 06:49:47.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:50:09.362] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=73, y=13, z=-2215}
+[03May2025 06:50:28.264] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=73, y=13, z=-2215}
+[03May2025 06:50:46.086] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=102, y=14, z=-2212}
+[03May2025 06:50:56.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Gogol would appreciate it]
+[03May2025 06:51:09.907] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=102, y=14, z=-2212}
+[03May2025 06:51:35.787] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=115, y=15, z=-2224}
+[03May2025 06:51:43.983] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=123, y=14, z=-2237}
+[03May2025 06:51:47.839] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=123, y=14, z=-2247}
+[03May2025 06:51:55.847] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=123, y=14, z=-2237}
+[03May2025 06:51:57.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Stealth boy]
+[03May2025 06:52:02.202] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=123, y=14, z=-2247}
+[03May2025 06:52:17.313] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=112, y=15, z=-2291}
+[03May2025 06:52:25.508] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=322, y=22, z=-2344} but found not block entity block Block{thermal:sulfur_ore} at location
+[03May2025 06:52:25.508] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{thermal:sulfur_ore} but failed at location BlockPos{x=322, y=22, z=-2344}
+[03May2025 06:52:27.349] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=112, y=15, z=-2291}
+[03May2025 06:53:13.735] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=122, y=15, z=-2194}
+[03May2025 06:53:38.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [That time I got reincarnated as a slime]
+[03May2025 06:54:37.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [What are they even for?]
+[03May2025 06:54:51.910] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=87, y=15, z=-2164}
+[03May2025 06:54:54.405] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=87, y=15, z=-2164}
+[03May2025 06:55:24.076] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=122, y=15, z=-2194}
+[03May2025 06:55:31.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:55:49.636] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=85, y=15, z=-2273}
+[03May2025 06:55:59.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[03May2025 06:56:01.294] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=85, y=15, z=-2273}
+[03May2025 06:56:14.197] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=95, y=15, z=-2263}

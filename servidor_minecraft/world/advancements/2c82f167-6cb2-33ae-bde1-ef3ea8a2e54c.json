@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-05-03 06:49:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:10 +0000"

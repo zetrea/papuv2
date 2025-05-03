@@ -5988,6 +5988,12 @@
     },
     "done": true
   },
+  "relics:obtain/camouflage_ring": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 06:51:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/smelting/metamorphic_mountain_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:21 +0000"
@@ -12111,6 +12117,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/acc_unlocked_10": {
+    "criteria": {
+      "acc_unlocked": "2025-05-03 06:54:37 +0000"
     },
     "done": true
   },
@@ -29960,6 +29972,12 @@
     },
     "done": true
   },
+  "relics:obtain/slime_heart": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 06:53:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pump_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:21 +0000"
@@ -39750,6 +39768,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:17 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/soul_devourer": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 06:50:56 +0000"
     },
     "done": true
   },
