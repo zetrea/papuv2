@@ -7626,6 +7626,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:32:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:16 +0000"
@@ -8355,6 +8361,12 @@
   "blue_skies:recipes/blue_skies_dungeon/rough_poison_stonebrick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
+    "criteria": {
+      "has_item": "2025-05-03 07:31:41 +0000"
     },
     "done": true
   },
@@ -34905,6 +34917,12 @@
     },
     "done": true
   },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-05-03 07:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:19 +0000"
@@ -46801,6 +46819,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_jungle": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:32:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/magenta_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:27 +0000"
@@ -47636,6 +47660,12 @@
   "minecraft:recipes/extendedslabs/black_concrete_powder_slab_to_vertical_black_concrete_powder_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:27 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:silverfish": {
+    "criteria": {
+      "crafting_table": "2025-05-03 07:34:09 +0000"
     },
     "done": true
   },

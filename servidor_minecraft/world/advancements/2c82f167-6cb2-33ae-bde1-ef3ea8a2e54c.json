@@ -3745,6 +3745,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-03 07:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:10 +0000"
@@ -7718,6 +7724,12 @@
     },
     "done": true
   },
+  "savageandravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-05-03 07:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/magic_stairs_to_magic_corner": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:29 +0000"
@@ -7726,6 +7738,7 @@
   },
   "chaosawakens:root/ent_destroyer": {
     "criteria": {
+      "jungle_ent": "2025-05-03 07:31:41 +0000",
       "oak_ent": "2025-04-26 22:41:54 +0000"
     },
     "done": false
@@ -28503,7 +28516,10 @@
       "minecraft:pillager": "2025-04-26 21:15:50 +0000",
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
       "minecraft:zoglin": "2025-05-03 07:20:54 +0000",
+      "savageandravage:executioner": "2025-05-03 07:34:34 +0000",
       "minecraft:ravager": "2025-05-03 07:21:31 +0000",
+      "savageandravage:creepie": "2025-05-03 07:32:39 +0000",
+      "savageandravage:griefer": "2025-05-03 07:32:42 +0000",
       "minecraft:ghast": "2025-05-02 07:49:01 +0000",
       "minecraft:hoglin": "2025-04-26 23:02:29 +0000",
       "minecraft:vindicator": "2025-04-26 22:02:30 +0000",
@@ -29180,6 +29196,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_steel_recycle_shovel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 07:35:49 +0000"
     },
     "done": true
   },
@@ -41912,6 +41934,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-03 07:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/oak_slab_to_vertical_oak_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:33 +0000"
@@ -47538,6 +47566,7 @@
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
       "minecraft:dark_forest": "2025-04-26 22:13:39 +0000",
       "minecraft:river": "2025-04-26 20:36:46 +0000",
+      "minecraft:swamp": "2025-05-03 07:35:45 +0000",
       "atmospheric:rocky_dunes": "2025-04-26 23:55:58 +0000",
       "minecraft:cold_ocean": "2025-04-26 22:43:58 +0000",
       "minecraft:forest": "2025-04-26 20:34:35 +0000",

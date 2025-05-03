@@ -4082,3 +4082,189 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03May2025 07:28:05.763] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-902, y=-2, z=-2244}
 [03May2025 07:28:07.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
 [03May2025 07:28:34.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Voluntary Exile]
+[03May2025 07:31:05.886] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 4.1459075765822035,5.69783646309925,7.178770082905885
+[03May2025 07:31:09.568] [Worker-Main-34/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 07:31:11.537] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -8.352762406403599,0.0,6.196072226206979
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -8.674022498957584,0.0,6.434382696445709
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -8.995282591511568,0.0,6.672693166684439
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -9.316542684065553,0.0,6.911003636923169
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -9.637802776619537,0.0,7.149314107161899
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -9.959062869173522,0.0,7.387624577400629
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -10.280322961727506,0.0,7.625935047639359
+[03May2025 07:31:11.538] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -10.601583054281491,0.0,7.864245517878089
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -10.922843146835476,0.0,8.10255598811682
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -11.24410323938946,0.0,8.34086645835555
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -11.565363331943445,0.0,8.57917692859428
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -11.88662342449743,0.0,8.81748739883301
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -12.207883517051414,0.0,9.05579786907174
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -12.529143609605399,0.0,9.294108339310469
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -12.850403702159383,0.0,9.532418809549199
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -13.171663794713368,0.0,9.770729279787929
+[03May2025 07:31:11.539] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -13.492923887267352,0.0,10.009039750026659
+[03May2025 07:31:11.540] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -13.814183979821337,0.0,10.247350220265389
+[03May2025 07:31:11.540] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -14.135444072375321,0.0,10.485660690504119
+[03May2025 07:31:11.540] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved too quickly! -14.456704164929306,0.0,10.723971160742849
+[03May2025 07:31:11.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[03May2025 07:31:20.131] [Worker-Main-5/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 07:31:23.692] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1372, y=51, z=-1637} but found not block entity block Block{minecraft:sandstone} at location
+[03May2025 07:31:23.692] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:sandstone} but failed at location BlockPos{x=-1372, y=51, z=-1637}
+[03May2025 07:31:23.692] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1370, y=51, z=-1640} but found not block entity block Block{minecraft:stone} at location
+[03May2025 07:31:23.692] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1370, y=51, z=-1640}
+[03May2025 07:31:29.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
+[03May2025 07:31:31.336] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTarantula from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 07:31:34.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1516, y=-3, z=-1615} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1516, y=-3, z=-1615}
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1516, y=-7, z=-1616} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1516, y=-7, z=-1616}
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1520, y=-7, z=-1611} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1520, y=-7, z=-1611}
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1517, y=-7, z=-1610} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:45.960] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1517, y=-7, z=-1610}
+[03May2025 07:32:46.059] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1518, y=-7, z=-1617} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:46.060] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1518, y=-7, z=-1617}
+[03May2025 07:32:48.615] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1524, y=-2, z=-1613} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:48.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1524, y=-2, z=-1613}
+[03May2025 07:32:48.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1526, y=-2, z=-1610} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:48.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1526, y=-2, z=-1610}
+[03May2025 07:32:48.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1527, y=-7, z=-1610} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:48.616] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1527, y=-7, z=-1610}
+[03May2025 07:32:48.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1527, y=-7, z=-1618} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:32:48.643] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1527, y=-7, z=-1618}
+[03May2025 07:32:52.225] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -8.44455438320756,4.827593352280772,3.7875876694755135
+[03May2025 07:33:01.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[03May2025 07:33:06.975] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved wrongly! 0.33793797534167425
+[03May2025 07:33:07.026] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved wrongly! 0.38852441687345163
+[03May2025 07:33:07.047] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of zetreaa) moved wrongly! 0.4255489423319432
+[03May2025 07:33:08.931] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1087, y=-4, z=-1564} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:08.931] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1087, y=-4, z=-1564}
+[03May2025 07:33:08.931] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1084, y=-4, z=-1563} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:08.931] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1084, y=-4, z=-1563}
+[03May2025 07:33:18.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[03May2025 07:33:18.493] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1090, y=-3, z=-1570} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:18.493] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1090, y=-3, z=-1570}
+[03May2025 07:33:35.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1666, y=-7, z=-1363} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:35.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1666, y=-7, z=-1363}
+[03May2025 07:33:35.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1655, y=-7, z=-1361} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:35.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1655, y=-7, z=-1361}
+[03May2025 07:33:35.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1657, y=-7, z=-1362} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:33:35.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1657, y=-7, z=-1362}
+[03May2025 07:34:09.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [Fish out of Water]
+[03May2025 07:34:09.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [First Steps]
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1758, y=-7, z=-1650} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1758, y=-7, z=-1650}
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1757, y=-7, z=-1656} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1757, y=-7, z=-1656}
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1759, y=-7, z=-1657} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1759, y=-7, z=-1657}
+[03May2025 07:34:39.313] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1757, y=-3, z=-1655} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:39.314] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1757, y=-3, z=-1655}
+[03May2025 07:34:40.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has unlocked Fire Mind trinket
+[03May2025 07:34:40.230] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1666, y=-7, z=-1355} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.230] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1666, y=-7, z=-1355}
+[03May2025 07:34:40.230] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1665, y=-2, z=-1355} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1665, y=-2, z=-1355}
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1655, y=-3, z=-1360} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1655, y=-3, z=-1360}
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1656, y=-7, z=-1355} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1656, y=-7, z=-1355}
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1663, y=-2, z=-1358} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1663, y=-2, z=-1358}
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1659, y=-7, z=-1356} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:40.231] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1659, y=-7, z=-1356}
+[03May2025 07:34:41.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[03May2025 07:34:43.429] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1768, y=-7, z=-1658} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:43.429] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1768, y=-7, z=-1658}
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1761, y=-7, z=-1651} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1761, y=-7, z=-1651}
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1768, y=-7, z=-1650} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1768, y=-7, z=-1650}
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1767, y=-2, z=-1650} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1767, y=-2, z=-1650}
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1765, y=-2, z=-1653} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:34:43.430] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1765, y=-2, z=-1653}
+[03May2025 07:34:43.594] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -3.703647804951828,5.884007349183335,7.369723129512039
+[03May2025 07:35:26.206] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1793, y=0, z=-1439} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:35:26.206] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1793, y=0, z=-1439}
+[03May2025 07:35:28.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[03May2025 07:35:44.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[03May2025 07:35:49.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [The Twelve Labors of Hercules]
+[03May2025 07:36:23.861] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1843, y=0, z=-1395} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1843, y=0, z=-1395}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1849, y=0, z=-1407} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1849, y=0, z=-1407}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1843, y=0, z=-1403} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1843, y=0, z=-1403}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1841, y=0, z=-1401} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1841, y=0, z=-1401}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1841, y=0, z=-1412} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1841, y=0, z=-1412}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1841, y=0, z=-1414} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1841, y=0, z=-1414}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1855, y=0, z=-1410} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1855, y=0, z=-1410}
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1843, y=0, z=-1424} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.862] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1843, y=0, z=-1424}
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1847, y=0, z=-1416} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1847, y=0, z=-1416}
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1854, y=0, z=-1410} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1854, y=0, z=-1410}
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1841, y=0, z=-1416} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1841, y=0, z=-1416}
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1841, y=0, z=-1417} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:23.863] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1841, y=0, z=-1417}
+[03May2025 07:36:25.788] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1858, y=0, z=-1412} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:25.789] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1858, y=0, z=-1412}
+[03May2025 07:36:25.789] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1857, y=0, z=-1410} but found not block entity block Block{minecraft:bedrock} at location
+[03May2025 07:36:25.789] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-1857, y=0, z=-1410}
+[03May2025 07:36:46.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[03May2025 07:37:03.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Creepie Crawly]
+[03May2025 07:37:22.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has completed the challenge [Hero of the Village]
+[03May2025 07:37:46.140] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2075, y=-6, z=-1279} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:46.140] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2075, y=-6, z=-1279}
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2073, y=-2, z=-1277} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2073, y=-2, z=-1277}
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2073, y=-6, z=-1278} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2073, y=-6, z=-1278}
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2077, y=-6, z=-1273} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:46.141] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2077, y=-6, z=-1273}
+[03May2025 07:37:48.761] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2082, y=-6, z=-1272} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2082, y=-6, z=-1272}
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2084, y=-6, z=-1272} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2084, y=-6, z=-1272}
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2082, y=-6, z=-1279} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2082, y=-6, z=-1279}
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2081, y=-1, z=-1275} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2081, y=-1, z=-1275}
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2083, y=-1, z=-1272} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2083, y=-1, z=-1272}
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2084, y=-6, z=-1280} but found not block entity block Block{minecraft:air} at location
+[03May2025 07:37:48.762] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2084, y=-6, z=-1280}
+[03May2025 07:38:21.945] [Server thread/ERROR] [net.minecraft.world.server.ChunkManager/]: Failed to save chunk -101,-78
+java.lang.RuntimeException: StructurePiece "net.minecraft.world.gen.feature.structure.MineshaftPieces$Room": "net.minecraft.world.gen.feature.structure.IStructurePieceType$$Lambda$2226/0x0000000840b00440@7624028" missing ID Mapping, Modder see MapGenStructureIO
+	at net.minecraft.world.gen.feature.structure.StructurePiece.func_143010_b(StructurePiece.java:61) ~[?:?]
+	at net.minecraft.world.gen.feature.structure.StructureStart.func_143021_a(StructureStart.java:98) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222649_a(ChunkSerializer.java:414) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222645_a(ChunkSerializer.java:363) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219229_a(ChunkManager.java:687) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_222965_e(ChunkManager.java:351) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219177_a(ChunkManager.java:348) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217210_a(ServerChunkProvider.java:312) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:698) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[03May2025 07:38:22.966] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -2.438033051935406,5.628185180771709,8.002734377037054
+[03May2025 07:39:19.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
