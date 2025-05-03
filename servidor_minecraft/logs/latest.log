@@ -3806,3 +3806,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03May2025 06:55:59.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
 [03May2025 06:56:01.294] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=85, y=15, z=-2273}
 [03May2025 06:56:14.197] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=95, y=15, z=-2263}
+[03May2025 07:00:55.306] [Worker-Main-34/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03May2025 07:02:35.314] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 07:02:35.314] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDragonfly from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[03May2025 07:02:49.251] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@7c046560
+[03May2025 07:02:51.204] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@7c046560
+[03May2025 07:02:52.340] [Server thread/INFO] [STDOUT/]: [net.minecraft.tileentity.AbstractFurnaceTileEntity:getRecipe:2097]: net.minecraft.item.crafting.FurnaceRecipe@7c046560
+[03May2025 07:04:24.036] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=13, y=87, z=-305}
+[03May2025 07:05:45.937] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[03May2025 07:05:45.937] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[03May2025 07:05:45.938] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[03May2025 07:05:45.938] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.iceandfire.entity.EntityDragonBase from class com.github.alexthe666.iceandfire.entity.EntityLightningDragon
+[03May2025 07:06:35.416] [Worker-Main-34/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityLammergeier from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 07:06:42.586] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=398, y=12, z=-206} BlockPos{x=398, y=11, z=-205}
+[03May2025 07:07:23.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Darkwing duck]
+[03May2025 07:07:27.587] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=442, y=15, z=-319}
+[03May2025 07:07:31.640] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=450, y=15, z=-307}
+[03May2025 07:07:39.341] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=477, y=14, z=-318}
+[03May2025 07:07:45.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 07:07:47.595] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=477, y=14, z=-318}
+[03May2025 07:07:49.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Gogol would appreciate it]
+[03May2025 07:07:54.231] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=487, y=14, z=-308}
+[03May2025 07:08:07.285] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=480, y=14, z=-328}
+[03May2025 07:08:08.544] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=479, y=14, z=-329}
+[03May2025 07:08:33.189] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=487, y=14, z=-308}

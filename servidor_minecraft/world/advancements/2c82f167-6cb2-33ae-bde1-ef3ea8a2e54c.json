@@ -13640,6 +13640,12 @@
     },
     "done": true
   },
+  "relics:obtain/midnight_robe": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 07:07:23 +0000"
+    },
+    "done": true
+  },
   "xreliquary:recipes/misc/uncrafting/prismarine_crystals": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:31 +0000"
@@ -20039,6 +20045,12 @@
   "minecraft:recipes/building_blocks/vertical_polished_blackstone_slab_to_polished_blackstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherrywood": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:02:55 +0000"
     },
     "done": true
   },
@@ -31419,6 +31431,12 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_cherrywood": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:02:55 +0000"
     },
     "done": true
   },
