@@ -4418,3 +4418,16 @@ java.lang.RuntimeException: StructurePiece "net.minecraft.world.gen.feature.stru
 [03May2025 08:10:45.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
 [03May2025 08:10:45.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
 [03May2025 08:10:45.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[03May2025 08:12:13.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [17igvnaciojaja: Teleported 17igvnaciojaja to zetreaa]
+[03May2025 08:12:34.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has completed the challenge [Quite the choice]
+[03May2025 08:13:02.673] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1818, y=91, z=-558}
+[03May2025 08:13:07.623] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-1818, y=91, z=-560}
+[03May2025 08:17:24.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[03May2025 08:19:16.331] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-560, y=116, z=-1880}
+[03May2025 08:19:22.982] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-558, y=116, z=-1882}
+[03May2025 08:20:04.281] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-556, y=116, z=-1906}
+[03May2025 08:21:45.264] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-472, y=154, z=-1841}
+[03May2025 08:22:03.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 08:22:06.534] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-472, y=154, z=-1841}
+[03May2025 08:22:13.612] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-472, y=154, z=-1843}
+[03May2025 08:22:14.974] [Server thread/WARN] [ModernFix/]: Couldn't find item handler capability on chest LootrChestTileEntity at BlockPos{x=-472, y=154, z=-1843}

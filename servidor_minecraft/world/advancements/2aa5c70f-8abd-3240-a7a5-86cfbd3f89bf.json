@@ -25123,6 +25123,12 @@
     },
     "done": true
   },
+  "hats:hats/hat_with_three_or_more_accessories": {
+    "criteria": {
+      "code_trigger": "2025-05-03 08:12:34 +0000"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.items/decompress/awakened_draconium_nugget": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:24 +0000"
