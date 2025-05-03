@@ -1217,6 +1217,12 @@
     },
     "done": true
   },
+  "dungeons_plus:end/find_end_ruins": {
+    "criteria": {
+      "structure": "2025-05-03 07:58:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:18 +0000"
@@ -1805,6 +1811,16 @@
       "has_the_recipe": "2025-04-26 20:37:10 +0000"
     },
     "done": true
+  },
+  "outer_end:end/explore_end": {
+    "criteria": {
+      "find_minecraft:end_midlands": "2025-05-03 07:56:57 +0000",
+      "find_outer_end:crystal_crag": "2025-05-03 07:56:54 +0000",
+      "find_minecraft:end_highlands": "2025-05-03 07:57:10 +0000",
+      "find_minecraft:the_end": "2025-05-03 07:49:03 +0000",
+      "find_minecraft:small_end_islands": "2025-05-03 07:49:00 +0000"
+    },
+    "done": false
   },
   "projecte:recipes/projecte/relay_mk3": {
     "criteria": {
@@ -7554,6 +7570,12 @@
     },
     "done": true
   },
+  "hats:hats/accessory_in_accessory": {
+    "criteria": {
+      "code_trigger": "2025-05-03 07:56:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:11 +0000"
@@ -8661,6 +8683,12 @@
   "chaosawakens:recipes/chaosawakens.food/cooked_corndog_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-03 07:56:43 +0000"
     },
     "done": true
   },
@@ -12039,6 +12067,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 07:48:58 +0000"
     },
     "done": true
   },
@@ -28540,7 +28574,8 @@
       "minecraft:silverfish": "2025-05-02 09:01:30 +0000",
       "minecraft:vex": "2025-04-26 23:50:54 +0000",
       "minecraft:zombie": "2025-04-26 20:52:27 +0000",
-      "minecraft:drowned": "2025-04-26 23:48:04 +0000"
+      "minecraft:drowned": "2025-04-26 23:48:04 +0000",
+      "minecraft:zombie_villager": "2025-05-03 07:56:58 +0000"
     },
     "done": false
   },
@@ -31718,6 +31753,12 @@
       "has_the_recipe": "2025-04-26 20:37:30 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-05-03 07:57:22 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
@@ -45799,6 +45840,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-03 07:57:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:15 +0000"
@@ -47005,6 +47052,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 07:48:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:10 +0000"
@@ -47590,6 +47643,7 @@
       "minecraft:dark_forest": "2025-04-26 22:23:27 +0000",
       "minecraft:river": "2025-04-26 22:44:01 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 23:36:22 +0000",
+      "minecraft:bamboo_jungle_hills": "2025-05-03 07:56:43 +0000",
       "minecraft:swamp": "2025-04-26 23:36:31 +0000",
       "atmospheric:rocky_dunes": "2025-04-26 23:55:35 +0000",
       "atmospheric:dunes": "2025-04-26 23:54:49 +0000",

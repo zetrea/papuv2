@@ -1831,6 +1831,14 @@
     },
     "done": true
   },
+  "outer_end:end/explore_end": {
+    "criteria": {
+      "find_minecraft:end_midlands": "2025-05-03 07:56:50 +0000",
+      "find_minecraft:end_highlands": "2025-05-03 07:57:01 +0000",
+      "find_minecraft:the_end": "2025-05-03 07:48:59 +0000"
+    },
+    "done": false
+  },
   "projecte:recipes/projecte/relay_mk3": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:35 +0000"
@@ -6448,6 +6456,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:20 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2025-05-03 07:52:55 +0000"
     },
     "done": true
   },
@@ -12087,6 +12101,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-03 07:48:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_mesa_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:25 +0000"
@@ -16032,6 +16052,12 @@
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-03 07:51:30 +0000"
     },
     "done": true
   },
@@ -22540,6 +22566,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "ie_epic": "2025-05-03 07:54:22 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/limestone_stairs_from_limestone_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:22 +0000"
@@ -26192,6 +26224,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-03 07:56:04 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/conversions/emerald_to_amethyst": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:11 +0000"
@@ -28545,6 +28583,8 @@
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
       "minecraft:husk": "2025-04-26 22:30:34 +0000",
+      "minecraft:ender_dragon": "2025-05-03 07:54:13 +0000",
+      "minecraft:shulker": "2025-05-03 07:57:52 +0000",
       "minecraft:cave_spider": "2025-04-26 20:40:28 +0000",
       "minecraft:piglin": "2025-05-02 07:45:20 +0000",
       "minecraft:enderman": "2025-04-26 21:34:35 +0000",
@@ -37816,6 +37856,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-03 07:54:13 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafting_grid": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
@@ -42072,6 +42118,12 @@
     },
     "done": true
   },
+  "vanillacookbook:recipes/dragon_breath": {
+    "criteria": {
+      "has_dragon_breath": "2025-05-03 07:51:30 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/peach_door": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:22 +0000"
@@ -45793,6 +45845,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-05-03 07:57:28 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:16 +0000"
@@ -46993,6 +47051,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-03 07:48:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:10 +0000"
@@ -47578,6 +47642,7 @@
       "minecraft:beach": "2025-04-26 22:04:44 +0000",
       "minecraft:dark_forest": "2025-04-26 22:13:39 +0000",
       "minecraft:river": "2025-04-26 20:36:46 +0000",
+      "minecraft:bamboo_jungle_hills": "2025-05-03 07:56:48 +0000",
       "minecraft:swamp": "2025-05-03 07:35:45 +0000",
       "atmospheric:rocky_dunes": "2025-04-26 23:55:58 +0000",
       "minecraft:cold_ocean": "2025-04-26 22:43:58 +0000",
