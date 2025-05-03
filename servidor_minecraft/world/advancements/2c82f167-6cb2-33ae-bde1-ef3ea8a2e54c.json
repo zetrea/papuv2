@@ -9891,6 +9891,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-03 07:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/extendedslabs/orange_sandstone_slab_to_vertical_orange_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:27 +0000"
@@ -23539,6 +23545,12 @@
   "extendedslabs:recipes/extendedslabs/vertical_black_wool_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-03 07:44:34 +0000"
     },
     "done": true
   },
@@ -47571,6 +47583,7 @@
       "minecraft:cold_ocean": "2025-04-26 22:43:58 +0000",
       "minecraft:forest": "2025-04-26 20:34:35 +0000",
       "minecraft:deep_cold_ocean": "2025-04-26 23:49:32 +0000",
+      "minecraft:birch_forest_hills": "2025-05-03 07:43:30 +0000",
       "minecraft:savanna": "2025-04-26 22:11:36 +0000",
       "minecraft:plains": "2025-04-26 20:36:51 +0000"
     },
