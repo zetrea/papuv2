@@ -4777,6 +4777,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-05-03 07:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:26 +0000"
@@ -11006,6 +11012,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-05-03 07:21:24 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.equipment/queen_scale_battle_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:14 +0000"
@@ -11867,6 +11879,12 @@
   "extendedslabs:recipes/extendedslabs/light_gray_glazed_terracotta_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:26 +0000"
+    },
+    "done": true
+  },
+  "hats:hats/acc_unlocked_25": {
+    "criteria": {
+      "acc_unlocked": "2025-05-03 07:20:56 +0000"
     },
     "done": true
   },
@@ -20672,6 +20690,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-03 07:22:41 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_network_transmitter": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -27349,6 +27373,12 @@
     },
     "done": true
   },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-05-03 07:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:15 +0000"
@@ -27874,6 +27904,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed": "2025-05-03 07:20:44 +0000"
     },
     "done": true
   },
@@ -28466,6 +28502,8 @@
     "criteria": {
       "minecraft:pillager": "2025-04-26 21:15:50 +0000",
       "minecraft:skeleton": "2025-04-26 20:52:36 +0000",
+      "minecraft:zoglin": "2025-05-03 07:20:54 +0000",
+      "minecraft:ravager": "2025-05-03 07:21:31 +0000",
       "minecraft:ghast": "2025-05-02 07:49:01 +0000",
       "minecraft:hoglin": "2025-04-26 23:02:29 +0000",
       "minecraft:vindicator": "2025-04-26 22:02:30 +0000",
@@ -28474,6 +28512,7 @@
       "minecraft:piglin_brute": "2025-04-26 22:44:17 +0000",
       "minecraft:creeper": "2025-04-26 21:53:56 +0000",
       "minecraft:evoker": "2025-05-03 07:17:00 +0000",
+      "minecraft:slime": "2025-05-03 07:25:04 +0000",
       "minecraft:zombified_piglin": "2025-04-26 23:57:43 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
@@ -48237,6 +48276,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_life_stairs_stonecutting_glowing_life_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:30 +0000"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-05-03 07:22:34 +0000"
     },
     "done": true
   },

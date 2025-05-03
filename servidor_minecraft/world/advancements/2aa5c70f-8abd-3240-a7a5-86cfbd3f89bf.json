@@ -22855,6 +22855,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_oak": "2025-05-03 07:18:15 +0000"
+    },
+    "done": false
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/soul_extractor": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:12 +0000"
