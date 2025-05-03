@@ -452,5 +452,135 @@
 				}
 			]
 		}
+		{
+			title: "Overpowered Bushes"
+			x: 10.0d
+			y: 0.0d
+			description: [
+				"Stone Bush Seeds can be found by mining stone very deep."
+				"You can place the various bush seeds that will start to produce resource leaves around the grown bush trunks."
+			]
+			id: "42FB4DDD995BDC0B"
+			tasks: [
+				{
+					id: "7D4AD86682C76E65"
+					type: "item"
+					item: "iron_bushes:stone_bush_seed"
+				}
+				{
+					id: "2DC3EDC531F55A5F"
+					type: "item"
+					item: "iron_bushes:coal_bush_trunk_0"
+				}
+				{
+					id: "41A1DC391AA48BE1"
+					type: "item"
+					item: "iron_bushes:iron_bush_trunk_0"
+				}
+				{
+					id: "59F5BD23B051C79E"
+					type: "item"
+					item: "iron_bushes:golden_bush_trunk_0"
+				}
+				{
+					id: "41BA313350B42257"
+					type: "item"
+					item: "iron_bushes:lapis_lazuli_bush_trunk_0"
+				}
+				{
+					id: "102D51C73CF920D7"
+					type: "item"
+					item: "iron_bushes:redstone_bush_trunk_0"
+				}
+				{
+					id: "2B1DEAC57CC37C6F"
+					type: "item"
+					item: "iron_bushes:d_iamond_bush_trunk_0"
+				}
+				{
+					id: "5D1F1B7A5C326EB7"
+					type: "item"
+					item: "iron_bushes:emerald_bush_trunk_0"
+				}
+				{
+					id: "040B882A5FA830DB"
+					type: "item"
+					item: "iron_bushes:netherite_bush_trunk_0"
+				}
+			]
+		}
+		{
+			title: "Complete Automation"
+			x: 10.0d
+			y: 2.0d
+			description: ["Modular Routers are very powerful, they allow automation of anything, use various upgrades to control the routers"]
+			id: "7D39E430874DE407"
+			tasks: [
+				{
+					id: "072B73057C009459"
+					type: "item"
+					item: "modularrouters:item_router"
+				}
+				{
+					id: "7BA029E26CCD40E3"
+					type: "item"
+					item: {
+						id: "modularrouters:puller_module_1"
+						Count: 1b
+						tag: {
+							modularrouters: {
+								ModuleFilter: { }
+								Direction: "NONE"
+							}
+						}
+					}
+				}
+				{
+					id: "480B85016E48D3E9"
+					type: "item"
+					item: {
+						id: "modularrouters:sender_module_1"
+						Count: 1b
+						tag: {
+							modularrouters: {
+								ModuleFilter: { }
+								Direction: "NONE"
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Buff Rider"
+			x: 10.0d
+			y: 4.0d
+			description: ["Kill Various creatures from Pandora's Creature Mod and get the Ridable Bufflons"]
+			id: "07E7F35A4D1B1B4D"
+			tasks: [
+				{
+					id: "323CA60A19EA8DF4"
+					type: "item"
+					item: "pandoras_creatures:bufflon_saddle"
+				}
+				{
+					id: "1871063748782D2C"
+					type: "item"
+					item: "pandoras_creatures:end_troll_box"
+				}
+			]
+		}
+		{
+			title: "Energy Fission"
+			x: 10.0d
+			y: 6.0d
+			description: ["Assemble a Reactor, for all of your power needs."]
+			id: "7B7FD12EBFF507E5"
+			tasks: [{
+				id: "03CC3DE5F75EA097"
+				type: "item"
+				item: "bigreactors:reinforced_reactorcontroller"
+			}]
+		}
 	]
 }
