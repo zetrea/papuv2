@@ -3713,3 +3713,66 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03May2025 06:38:08.463] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBobbitWorm from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [03May2025 06:38:15.465] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
 [03May2025 06:38:15.465] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySaltwaterEel from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[03May2025 06:38:51.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: zetreaa has made the advancement [They Have a Cave Troll!]
+[03May2025 06:39:36.389] [Netty Epoll Server IO #1/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[03May2025 06:39:36.417] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.6764% of max allowed vanilla size
+[03May2025 06:39:36.423] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.5323% of max allowed vanilla size
+[03May2025 06:39:43.002] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@17806404
+[03May2025 06:39:43.036] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.148.27.224:53803] logged in with entity id 1554 at (238.30000001192093, 74.0, 40.56489076433275)
+[03May2025 06:39:43.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[03May2025 06:39:43.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[03May2025 06:39:43.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[03May2025 06:39:43.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[03May2025 06:39:43.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[03May2025 06:39:43.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[03May2025 06:39:43.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[03May2025 06:39:43.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[03May2025 06:40:23.202] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:40:23.202] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityHorseshoeCrab from class dev.itsmeow.betteranimalsplus.imdlib.entity.util.EntityTypeContainerContainable
+[03May2025 06:40:24.583] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja lost connection: Disconnected
+[03May2025 06:40:24.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja left the game
+[03May2025 06:40:32.920] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1730, l='ServerLevel[world]', x=521.70, y=50.54, z=267.31] died, message: 'Villager drowned'
+[03May2025 06:41:25.963] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityShark from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:41:51.003] [Netty Epoll Server IO #3/INFO] [codechicken.lib.config.ConfigSyncManager/]: Skipping config sync, No mods have registered a syncable config.
+[03May2025 06:41:51.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:item is using 64.6764% of max allowed vanilla size
+[03May2025 06:41:51.036] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Login payload for Registry minecraft:block is using 42.5323% of max allowed vanilla size
+[03May2025 06:41:57.686] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76105701
+[03May2025 06:41:57.710] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: 17igvnaciojaja[/127.148.27.224:46215] logged in with entity id 2156 at (238.30000001192093, 74.0, 40.56489076433275)
+[03May2025 06:41:57.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to 17igvnaciojaja
+[03May2025 06:41:57.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to 17igvnaciojaja
+[03May2025 06:41:57.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to 17igvnaciojaja
+[03May2025 06:41:57.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to 17igvnaciojaja
+[03May2025 06:41:57.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to 17igvnaciojaja
+[03May2025 06:41:57.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to 17igvnaciojaja
+[03May2025 06:41:57.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to 17igvnaciojaja
+[03May2025 06:41:57.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja joined the game
+[03May2025 06:42:55.639] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoat from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:43:06.323] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -10.434606945184782,0.2536380418068944,-0.8463394454157154
+[03May2025 06:43:16.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:43:57.857] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityDeer from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:43:57.947] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySquirrel from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:44:00.255] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntitySongbird from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:44:01.816] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -9.184084503385549,5.222013118761623,0.3365398307689702
+[03May2025 06:44:05.618] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityTurkey from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:44:06.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -6.194386409470127,5.50872983579886,-5.669119184765577
+[03May2025 06:44:06.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[03May2025 06:44:11.346] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -0.1159168859970805,-10.806526110008988,-0.29896672641143596
+[03May2025 06:44:12.712] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -2.3672132061379045,-9.642856554537005,-1.941684572922668
+[03May2025 06:44:12.877] [Worker-Main-16/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityPheasant from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:44:21.386] [Worker-Main-16/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityFeralWolf from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:44:28.700] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -0.3205017380129789,-10.425414797158737,-3.1391025955454097
+[03May2025 06:45:33.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Would you Like to Know More?]
+[03May2025 06:45:37.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:46:11.755] [Worker-Main-16/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityBearNeutral from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:46:14.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 17igvnaciojaja has made the advancement [Book of Monsters]
+[03May2025 06:47:26.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:47:36.401] [Worker-Main-20/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class dev.itsmeow.betteranimalsplus.common.entity.EntityGoose from class dev.itsmeow.betteranimalsplus.imdlib.entity.EntityTypeContainer
+[03May2025 06:47:38.802] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa moved too quickly! 1.8229592736506959,0.0,-10.098785069631049
+[03May2025 06:47:39.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 2.540134650232659,-0.7684762024129839,-9.768801357301982
+[03May2025 06:47:39.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: zetreaa moved too quickly! -1.524178518196976,2.0,-9.727698019716627
+[03May2025 06:47:39.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[03May2025 06:47:44.702] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! 0.7806771816646858,0.0,-10.22308771743883
+[03May2025 06:47:49.588] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: 17igvnaciojaja moved too quickly! -4.04402635317831,4.162439737419746,-8.925337894631411
+[03May2025 06:47:52.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:48:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [zetreaa: Teleported zetreaa to 17igvnaciojaja]
+[03May2025 06:48:16.926] [Worker-Main-5/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.

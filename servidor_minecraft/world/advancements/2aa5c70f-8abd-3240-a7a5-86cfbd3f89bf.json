@@ -19314,6 +19314,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-03 06:38:51 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.fossils/copper_defossilizer": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:16 +0000"
@@ -25419,6 +25425,12 @@
   "bigreactors:recipes/bigreactors.reactor/reactor/basic/controlrod": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:37:34 +0000"
+    },
+    "done": true
+  },
+  "vanillacookbook:recipes/mushrooms": {
+    "criteria": {
+      "has_mushroom": "2025-05-03 06:38:52 +0000"
     },
     "done": true
   },
