@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:15:01 +0000"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/cracked_pink_terracotta_bricks_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:23 +0000"
@@ -12938,6 +12944,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-05-03 07:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_diamond": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
@@ -13235,6 +13247,12 @@
   "projecte:recipes/projecte/arcana_ring": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:33 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-05-03 07:14:54 +0000"
     },
     "done": true
   },
@@ -28455,6 +28473,7 @@
       "minecraft:spider": "2025-04-26 21:04:30 +0000",
       "minecraft:piglin_brute": "2025-04-26 22:44:17 +0000",
       "minecraft:creeper": "2025-04-26 21:53:56 +0000",
+      "minecraft:evoker": "2025-05-03 07:17:00 +0000",
       "minecraft:zombified_piglin": "2025-04-26 23:57:43 +0000",
       "minecraft:witch": "2025-04-26 21:17:25 +0000",
       "minecraft:wither_skeleton": "2025-04-26 22:13:53 +0000",
@@ -28464,6 +28483,7 @@
       "minecraft:enderman": "2025-04-26 21:34:35 +0000",
       "minecraft:silverfish": "2025-04-26 21:06:37 +0000",
       "minecraft:stray": "2025-04-26 21:25:59 +0000",
+      "minecraft:vex": "2025-05-03 07:16:58 +0000",
       "minecraft:zombie": "2025-04-26 20:48:37 +0000",
       "minecraft:drowned": "2025-04-26 23:50:12 +0000",
       "minecraft:zombie_villager": "2025-05-02 09:33:51 +0000"
@@ -39754,6 +39774,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_the_recipe": "2025-04-26 20:34:18 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/soul_devourer": {
+    "criteria": {
+      "obtain_relic": "2025-05-03 07:07:49 +0000"
     },
     "done": true
   },
